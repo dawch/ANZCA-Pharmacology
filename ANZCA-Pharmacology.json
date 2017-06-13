@@ -1,0 +1,2097 @@
+{
+    "__type__": "Deck", 
+    "children": [
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "a734d323-503b-11e7-800b-0025bcdd42f8", 
+            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Cardiovascular Pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Adrenaline", 
+                        "Naturally occurring direct-acting catecholamine produced by the adrenal medulla", 
+                        "Cardiac arrest per ACLS/Haemodynamic support (low CO states)<div>Anaphylaxis</div><div>Bronchoconstriction</div><div>Additive to LA (prolonged duration + local vasoconstrictor)&nbsp;<br /></div>", 
+                        "Clear solution only (only stable in acidic solution)<div>1mg/ml in 5ml and 50ml vials</div><div>1mg/10ml (1:10000 minijet)</div><div>280mcg MDI aerosol spray</div>", 
+                        "Directly acting sympathomimetic amine<div>Non-selective adrenoceptor agonist&nbsp;</div><div>Mast-cell stabilisation</div>", 
+                        "1mg in arrest (0.1mg/kg)<div>0.1mg in anaphylaxis (0.01mg/kg)</div><div>0.1mcg/kg/min starting infusion</div>", 
+                        "Immediate onset<div>1-2 minute duration</div>", 
+                        "IV/ IO<div>IM</div><div>SC</div><div>Nebulised/ETT</div>", 
+                        "Hypertension, tachycardia/arrhythmia<div>Increased catabolic state</div>", 
+                        "Peripheral necrosis<div>Arrhythmias</div>", 
+                        "Inactivated when administered PO; slower SC than IM", 
+                        "Does not cross BBB", 
+                        "Metabolised by catechol-o-methyltransferase (CoMT) in the liver, and some by monoamine oxidase (MAO) in adrenergic neurons<div>Final common products are inactive</div>", 
+                        "T<sub>1/2</sub>&nbsp;2 minutes<div>Excreted in urine as inactive metabolites&nbsp;</div>", 
+                        "4", 
+                        "3", 
+                        "4", 
+                        "3", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "y66>2$<!~4", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "At {{c1::low (1-3mcg/kg/min)}} dose infusion, adrenaline has {{c2::beta-2}} effects, such as {{c3::vasodilation and bronchodilation}} (two)."
+                    ], 
+                    "flags": 0, 
+                    "guid": "tud|HE5a!@", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Adrenaline is a {{c1::positive}} inotrope and {{c1::positive}} chronotrope, and therefore causes {{c2::increased}} cardiac output and {{c3::increased}} myocardial oxygen consumption."
+                    ], 
+                    "flags": 0, 
+                    "guid": "lsn=&8J#(K", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "At {{c1::moderate (~3mcg/kg/min)}} infusion, adrenaline causes {{c2::beta-1}} agonism, and thus causes {{c3::increased}} inotropy and chronotropy"
+                    ], 
+                    "flags": 0, 
+                    "guid": "q54-?4Gyov", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "At {{c1::high dose (&gt;3mcg/kg/min)}} infusions, adrenaline primarily has {{c2::alpha}} effects and acts as a {{c3::vasoconstrictor}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Gc4`c;V]9Y", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Adrenaline}} cannot be given orally, because it is rapidly metabolised by {{c2::catechol-o-methyl transferase}} in {{c3::the GI tract}} and {{c4::monoamine oxidase}} in {{c5::the GI tract and liver}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "P^H*@QB|2n", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "adrenaline", 
+                        "adrenaline,", 
+                        "adrenergic-cardiology", 
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology", 
+                        "pharmacology,"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Noradrenaline", 
+                        "Endogenous catecholamine", 
+                        "Refractory hypotension", 
+                        "Glass vials, to be mixed with 5% dextrose or saline solution", 
+                        "<div>Direct and indirect sympathomimetic amine that predominantly acts at alpha adrenergic receptors (minor action at beta receptors)</div>", 
+                        "0.1 to 1mcg/kg/min infusion as concentration of 40mcg/ml", 
+                        "<div>Onset in minutes</div>Duration 30-40 minutes", 
+                        "Central vein infusion", 
+                        "<div>Alpha: increased SVR, increased DBP, therefore increased DBP; increased venoconstriction, increased venous return therefore increased preload</div>Beta: Inotropy and chronotropy; may have compensatory bradycardia<div>Increased afterload and beta effects may increase myocardial work and oxygen consumption</div>", 
+                        "CNS: anxiety, headache, photophobia<div>CVS: pallor, sweating, chest pain</div><div>Skin: tissue necrosis and sloughing, especially with extravasation</div>", 
+                        "Significant first-pass metabolism<div>Inactive in PO form</div>", 
+                        "Vd 0.09-0.4l/kg", 
+                        "Two pathways<div>1. Oxidative deamination to aldehyde by mitochondrial MAO</div><div>2. Methylation by cytoplasmic COMT</div>", 
+                        "5% excreted unchanged<div>Clearance 27.9-100ml/min/kg</div><div>T1/2 0.57-2.4min</div>", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "CNS, CVS, Skin", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "yt8(vP04u2", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "adrenergic", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dopamine", 
+                        "Naturally occuring catecholamine; central neurotransmitter, peripheral naturetic and diuretic&nbsp;", 
+                        "Low CO states<div>Septic shock<br /><div>Impending renal failure to promote diuresis</div></div>", 
+                        "Clear, colourless solution for injection, 40/160mg/ml of dopamine hydrochloride", 
+                        "Sympathomimetic and increased renal blood flow", 
+                        "Infusion in glucose/saline or Hartmann's solution<div>1-20mcg/kg/min</div>", 
+                        "Onset 5 min<div>Duration 10 minutes</div>", 
+                        "IV (CVC preferred)&nbsp;", 
+                        "Nausea due to direct action in chemosensitive trigger zone (outside BBB)&nbsp;", 
+                        "CVS: Tachycardia, dysrhythmias, angina, hypertension<div>GI: nausea, vomiting</div><div><div>Skin: sloughin and tissue necrosis when extravasates</div></div>", 
+                        "Ineffective when given PO", 
+                        "Does not cross BBB", 
+                        "Metabolised in plasma, liver, and kidneys by MAO and COMT<div>25% converted to noradrenaline in adrenergic nerve terminals</div>", 
+                        "<div>Predominantly urinary excretion; small amount excreted unchanged</div><div>Clearance 234-330L/hr</div>T<sub>1/2</sub> 2 minutes", 
+                        "3", 
+                        "1", 
+                        "1", 
+                        "2", 
+                        "CVS, GI, Skin", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "yL_eI-,Q}X", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dobutamine", 
+                        "Synthetic isoprenaline derivative", 
+                        "Inotropic support in low CO states, due to:<div>MI</div><div>Cardiac surgery</div><div>Cardiomypathy</div><div>PEEP</div><div>Septic shock to increase O2 delivery</div><div>Chemical stress test</div>", 
+                        "Solution for injection 12.5/50mg/ml", 
+                        "Direct action on catecholamine receptors to activate adenylate cyclase (cataylses conversion of ATP to cAMP). This causes increased cell membrane permeability to Ca<sup>++</sup>, necessary for depolarisation and completion of contraction.&nbsp;", 
+                        "0.5-40 mcg/kg/min infusion", 
+                        "Onset 1-2 minutes<div>Duration 10-20 minutes</div>", 
+                        "IV", 
+                        "Uncommon &lt;10mcg/kg/min<div>Tachyphylaxis with prolonged infusion</div>", 
+                        "CVS: dysrhythmias, tachycardia or bradycardia, hypertension, chest pain<div>CNS: fatigue, nervousness, headache</div>", 
+                        "100% bioavailability", 
+                        "Vd 0.2l/kg", 
+                        "Major route is methylation viat COMT with subsequent conjugation to glucuronide", 
+                        "Inactive metabolites excreted in urine, 20% of total dose in faeces<div>Clearance 244L/hr</div><div><div>T1/2 2 minutes</div></div>", 
+                        "6", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "CNS, CVS", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": ">T8QS}[5$", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dobutamine should not be used in patients with {{c1::cardiac outflow obstruction, such as tamponade or AS}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "tIV)}~+Oz5", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dobutamine {{c1::increases cardiac contractility}} by a direct action on {{c2::cardiac beta-1 adrenoceptors}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "EDP?oUv^KE", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dobutamine {{c1::increases LVEDP and SVR}} causing {{c2::increased cardiac index}} in patients with severe heart failure"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Ov:A44!lue", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Isoprenaline", 
+                        "Synthetic catecholamine", 
+                        "Complete heart block (while awaiting pacing)<div>Asthma</div><div>Torsades de pointes</div><div>Inotropic support</div>", 
+                        "Clear solution for injection 0.02/1mg/ml<div>Aerosol 80/400mcg MDI</div>", 
+                        "Beta-adrenergic agonist, mediated by membrane-bound adenylate cyclase and subsequent cAMP formation", 
+                        "Infusion in water or 5% dextrose at 0.5 to 8mcg/min", 
+                        "Immediate onset<div>Duration 10-20 min</div>", 
+                        "IV<div>MDI</div>", 
+                        "CVS: increased myocardial O2 consumption, increases coronary blood flow<div>Resp: increased dead space and V/Q mismatch</div>", 
+                        "Tachycardia, palpitations, angina, dysrhythmia, hypotension, diaphoresis<div>Excess mortality in asthmatics using inhaled isoprenaline</div>", 
+                        "Good PO absorption but extensive first-ass metabolism", 
+                        "65% protein bound in plasma", 
+                        "Poor substrate for MAO action; mainly metabolised by COMT", 
+                        "15-75% excreted unchanged in urine<div>T<sub>1/2</sub> 1-7min</div>", 
+                        "4", 
+                        "2", 
+                        "2", 
+                        "1", 
+                        "CVS, mortality", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "vYvDF3yJK(", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Metaraminol", 
+                        "Synthetic sympathomimetic amine", 
+                        "Refractory hypotension adjunct", 
+                        "Clear solution 10mg/ml", 
+                        "Direct and indirect sympathomimetic, mainly an alpha-1 adrenoceptor agonist; some beta-adrenoceptor activity", 
+                        "Bolus doses 0.5-5mg IV or in infusion<div>IM/SC 2-10mg to PREVENT hypotension</div>", 
+                        "Onset 1-2min<div>Duration 20-60min (peak 10min)</div><div>(IM or SC - 10min; 90min)</div>", 
+                        "IM<div>SC&nbsp;</div><div>IV</div>", 
+                        "CVS: Increased PVR + SVR + reflex bradycardia; indirect increase in CBF<div>Resp: Increase Vt; decrease RR</div><div>CNS: increase CBF</div><div>GU: decreased renal blood flow</div><div>Metabolic: increased catabolism</div>", 
+                        "CNS: headaches, tremor, dizziness<div>GI: nausea, vomiting</div><div>Skin: tissue necrosis + abscess oin extravasation</div>", 
+                        "Unknown", 
+                        "Does not cross BBB<div>45% protein bound</div>", 
+                        "Hepatic", 
+                        "T<sub>1/2</sub> of minutes", 
+                        "1", 
+                        "1", 
+                        "3", 
+                        "2", 
+                        "CNS, GI, Skin", 
+                        "CVS, Resp, CNS, GU, Metabolic"
+                    ], 
+                    "flags": 0, 
+                    "guid": "H|90R&{Ng{", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Metaraminol}} causes {{c2::noradrenaline}} to be released from intracytoplasmic stores, in addition to causing {{c2::adrenaline}} release"
+                    ], 
+                    "flags": 0, 
+                    "guid": "x}YIUk^bsR", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Vasopressin", 
+                        "Naturally occurring nonapeptide prohormone synthesised in posterior hypothalamus", 
+                        "Management of cranial diabetes insipidus<div>Management of bleeding oeseophageal varices</div><div>Perioperative/trauma management of haemophilia and vWD</div><div>Post-hypophysectomy polyuria and polydipsia management</div><div>Catecholamine-refractory septic shock</div>", 
+                        "<div>(depends on analogue)&nbsp;</div>Solution for injection (IV, SC, or IM)&nbsp;<br />Powder for reconstitution<div>PO lyophilizate</div><div>Tablets</div><div>IN solution</div>", 
+                        "Vasopressin and its analogues act via G-protein vasopressin receptors V1, V2, and V3, and has affinity for oxytocin-type receptors", 
+                        "Variable depending on synthetic analogue", 
+                        "Variable depending on synthetic analogue", 
+                        "IV<div>SC&nbsp;</div><div>IM</div><div>IN</div><div>PO</div><div>SL</div>", 
+                        "CVS: increased MAP and SVR; pulmonary arterial vasodilation in hypoxia and physiological conditions<div>GU: reduced urine output and polydipsia in central DI</div><div>Haematological: increase vWF and factor VII</div>", 
+                        "Decreased cutaneous and splanchnic perfusion", 
+                        "Desmopressin is only analogue that can be given PO, SL or IN", 
+                        "Variable per analogue; generally low Vd", 
+                        "Endogenous vasopressin has T<sub>1/2</sub> of 10-35min<div>Argipressin 10-20min</div><div>Terlipressin 50-70min</div><div>Desmopressin 2-3h</div>", 
+                        "65% argipressin and desmopressin excreted unchanged in urine", 
+                        "5", 
+                        "5", 
+                        "6", 
+                        "1", 
+                        "Perfusion", 
+                        "CVS, GU, Haematological"
+                    ], 
+                    "flags": 0, 
+                    "guid": "cN;01V+Ae$", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "The three synthetic analogues of vasopressin are {{c1::argipressin, terlipressin and desmopressin}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Pmd[>LM9cr", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Endogenous vasopressin and its synthetic analogues act via {{c1::G-protein vasopressin receptors V1, V2, and V3}}, and also has affinity for {{c2::oxytocin-like receptors}}.&nbsp;"
+                    ], 
+                    "flags": 0, 
+                    "guid": "q_@vnY;5%D", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Vasopressin:<div>V1 receptors are present in {{c1::vascular smooth muscle, platelets, and myometrium}}. Activation leads to {{c2::increased intracellular calcium concentrations and vasoconstriction}}</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "NOjVB#Ke*f", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Vasopressin:<div>V2 receptors are found in the {{c1::distal renal tubule and collecting ducts}}, and activation leads to aquaporin-2 trafficking from intracellular vesicle membranes within renal epithelial cells into the apical cell membrane, allowing {{c2::water reabsorption}}.&nbsp;</div><div>V2 receptors are also present on {{c1::endothelial cells}}, allowing {{c2::von Willebrand factor (vWF)}} release that prevents the breakdown of factor VIII in plasma.&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "D<-3sfSoT{", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Vasopressin:<div>V3 receptors are found in the {{c1::pituitary}} and contribute to {{c2::ACTH release}}.&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Aw!7|mPTy/", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Vasopressin:<div>Oxytocin-type receptors are present on {{c1::vascular smooth muscle and the myometrium}}, and activation results in {{c2::increased NO synthase activity leading to vasodilation}}.&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "orFA$Q[{)_", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Desmopressin}} has {{c2::ten times the anti-diuretic}} action of {{c1::endogenous vasopressin}}, but {{c2::1500 times less vasoconstriction effect}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "ykHd7$a!SW", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular", 
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Clonidine", 
+                        "Aniline derivative", 
+                        "All grades of essential and secondary hypertension<div>Hypertensive crises</div><div>Migraine</div><div>Menopausal flushing</div><div>Chronic pain</div><div>Opiate and alcohol withdrawal</div><div>IV regional anaesthesia or chronic regional pain syndromes</div>", 
+                        "0.1/0.25/0.3 mg tablets<div>Clear, colourless solution for injection 0.15mg/ml</div>", 
+                        "Stimulates pre-synaptic alpha-2 adrenoreceptors and thus increases noradrenaline release from sympathetic nerve terminals and thus decreases sympathetic tone<div>Also increases vagal tone</div>", 
+                        "0.05-0.6mg q8h PO = 0.1-0.3mg IV", 
+                        "IV<div>Onset 10 minutes<div>Duration 3-7 hours</div></div>", 
+                        "PO<div>IV</div><div>Epidural&nbsp;</div>", 
+                        "CVS: transient increase in BP (alpha-1 stimulation), then sustained decrease; o change in contractility and CO is maintained<div><br /></div><div>CNS: decreased CBF</div><div><br /></div><div>GI: Decreased gastric and SB motility</div>", 
+                        "CNS: Drowsiness<div>CVS: life-threatening hypertension and tachycardia (rebound)&nbsp;</div><div>GI: dry mouth, constipation</div>", 
+                        "PO bioavailability 100%", 
+                        "Very lipid-soluble; crosses BBB<div>20% protein-bound in plasma</div><div>Vd 1.7-2.5l/kg</div>", 
+                        "&lt;50% metabolised by liver into inactive metabolites", 
+                        "65% excreted unchanged in urine<div>20% in faeces</div><div>Reduce dose if GFR &lt;10ml/min (increased elimination half-life in renal failure)</div>", 
+                        "7", 
+                        "2", 
+                        "3", 
+                        "2", 
+                        "CNS, CVS, GI", 
+                        "CVS, CNS, GI"
+                    ], 
+                    "flags": 0, 
+                    "guid": "AcD&TKC&_W", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Milrinone", 
+                        "Bipyridine molecule (selective PDE inhibitor)&nbsp;", 
+                        "Severe refractory CCF<div>Low CO states post cardiac surgery</div>", 
+                        "Clear solution for injection 1mg/ml in 10ml and 20ml glass vials", 
+                        "Selective PDE III inhibitor: prevents cAMP breakdown --&gt; vaso and venodilation (peripheral) and increased contractility (cardiac myocytes)", 
+                        "50mcg/kg over 10min (loading)&nbsp;<div>0.375-0.75mcg/kg/min infusion</div>", 
+                        "Immediate after loading<div>CSHL 2.4h</div>", 
+                        "IV", 
+                        "CVS: positive inotrope causing increased CO, CI. Decreased PCWP, SVR and MAP<div>GU: increased GFR and UO due to increased CO and renal perfusion</div>", 
+                        "CVS: Arrhythmias and ventricular ectopics", 
+                        "Only IV", 
+                        "70-80% protein bound", 
+                        "12% hepatic glucuronidation", 
+                        "93% renal excretion (slow infusion in renal impairment)<div>T 1/2 2.3h</div>", 
+                        "2", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "CVS", 
+                        "CVS<div>GU</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "n.{$/?SD8D", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular-drugs", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Labetalol", 
+                        "Mixed beta and alpha antagonist", 
+                        "Acute hypertensive crisis<div>Hypertensive emergency in pregnancy</div><div>Subarachnoid haemorrhage</div>", 
+                        "Tablets 50-400mg<div>Colourless IV solution 5mg/ml (racemic solution)</div>", 
+                        "SR isomer: alpha-1 antagonism (peripheral vasodilation)<div>RR isomer: non-selective beta antagonism (reduced HR, CO and myocardial O2 consumption)&nbsp;</div>", 
+                        "20mg IV pushes<div>100-400mg BD PO</div>", 
+                        "PO: onset up to 2 hours, duration up to 12 hours<div>IV: onset up to 5min, duration up to 18 hours</div>", 
+                        "PO and IV", 
+                        "May precipitate bronchospasm in COPD<div>Use in caution in liver failure</div>", 
+                        "Excessive bradycardia and hypotension", 
+                        "25% PO bioavailability (high first pass metabolism)&nbsp;", 
+                        "Vd 3-6l/kg<div>50% protein binding</div><div>Moderate lipid solubility (can enter CNS)</div>", 
+                        "Hepatic: glucuronide conjugation", 
+                        "T 1/2 6-8hrs<div>Urinary excretion (60% as glucuronide conjugates; 5% unchanged)&nbsp;</div>", 
+                        "3", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "CNS", 
+                        "Respiratory"
+                    ], 
+                    "flags": 0, 
+                    "guid": "erDL:jk{zk", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Levosimendan", 
+                        "Calcium sensitiser", 
+                        "Cardiogenic shock<div>Short-term management of heart failure</div>", 
+                        "IV only<div>2.5mg/ml in 5ml and 10ml vials</div>", 
+                        "Low dose: calcium sensitiser (binds to trop C and increases myofilament Ca++ sensitivity)<div>Higher dose: PDEIII inhibitors, overall inotrope without increasing mocardial O2 demand)</div>", 
+                        "12-24mcg/kg loading over 10min<div>0.05-0.2mcg/kg/min infusion</div>", 
+                        "5min<div>1-2 hours</div>", 
+                        "IV only", 
+                        "VT, AF, hypotension, headache", 
+                        "Hypotension, tachycardia, K+ channel interference causing increase QTc", 
+                        "100% (IV)", 
+                        "Vd 0.2L/kg<div>98% protein bound</div>", 
+                        "Hepatic: into active metabolites (accounts for prolonged effects up to 9 days)&nbsp;", 
+                        "T1/2 1 hr<div>T1/2 of active metabolites 75-80hours</div><div>Excretion mainly in urine (some in faeces)&nbsp;</div>", 
+                        "2", 
+                        "1", 
+                        "1", 
+                        "2", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "c^o@:<j45x", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Verapamil", 
+                        "Synthetic papaverine derivative<div>Phenylalkylamine calcium channel blocker</div>", 
+                        "Hypertension<div>Angina</div><div>Arrhythmias such as SVT to slow conduction through SAN and AVN</div>", 
+                        "Racemic mixture<div>PO (IR and SR forms) 40-240mg tablets</div><div>IV 2.5mg/ml in 2ml vials</div>", 
+                        "Levoisomer: acts on slow Ca++ channels - arterial vasodilation and slow conduction through SAN and AVN<div>Dextroisomer: acts on fast Na+ channel - local anaesthetic effects</div>", 
+                        "Angina 80-120mg TDS PO<div>AF 80-120mg QID PO</div>", 
+                        "1-2 hours<div>6-8 hours</div>", 
+                        "IV and PO", 
+                        "Gingival hyperplasia<div>Constipation</div><div>Peripheral oedema</div>", 
+                        "IV can cause marked decrease in contractility<div>Avoid in WPW and heart block</div>", 
+                        "PO bioavailability 20-35% (good absorption but high first pass metabolism)", 
+                        "Vd 3.89L/kg<div>90% protein bound</div>", 
+                        "Hepatic: multiple isoenzymes; one active metabolite with 20% activity", 
+                        "T1/2 3-7hrs<div>Urinary excretion (70% metabolits, 4% unchanged</div><div>16% in faeces</div>", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "Ind7ZU6o(A", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Diltiazem", 
+                        "Benzothiazepinecalcium channel blocker", 
+                        "Angina<div>Hypertension</div>", 
+                        "PO 60-360mg (IR or SR)<div>IV 5mg/ml in 5, 10, 25ml vials</div>", 
+                        "More eripheral vasodilation than verapamil<div>More conduction delay than dihydropyridines</div>", 
+                        "30-80mg TDS", 
+                        "30-60min", 
+                        "PO and IV", 
+                        "Peripheral oedema, flushing, vertigo, headache, paraesthesia", 
+                        "Contraindicated in SSS, heart block, WPW", 
+                        "40% PO bioavailability (high first pass metabolism)", 
+                        "Vd 3-13L/kg<div>70-80% protein bound</div>", 
+                        "Hepatic - into desacetyldiltiazem (active metabolite, 25% potency of parent drug)", 
+                        "T1/2 3-4.5hrs, urinary excretion (4% unchanged, 7% metabolitcs) and faeces", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "Cardiac", 
+                        "CVS, CNS"
+                    ], 
+                    "flags": 0, 
+                    "guid": "y3Xy*/Cs8p", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Metoprolol", 
+                        "Selective beta-blocker (relatively selective, with nil intrinsic sympathomimetic activity)", 
+                        "HD stable MI to reduce infarct size<div>Rate control in AF</div><div>Hypertension (not first line)</div>", 
+                        "Tablets IR and XR in 25mg increments<div>IV 1mg/ml</div>", 
+                        "Beta-adrenergic receptor blockade<div>Decrease in HR, CO, and myocardial O2 consumption</div><div>(no beta-2 effects at &lt;100mg)</div>", 
+                        "PO in 12.5mg increments<div>IV 1-2mg titrating to effect</div>", 
+                        "PO 1-2 hours; duration 3-6h depending on dose<div>IV 10min/ 5-8h</div>", 
+                        "PO and IV", 
+                        "May precipitate bronchoconstriction in COPD<div>Rapid withdrawal can cause rebound tachycardia and HTN</div>", 
+                        "Complete heart block when used with Ca++ blockers", 
+                        "50% PO bioavailability (high first pass)", 
+                        "Vd 3.2-5.6L/kg; 10% protein bound; highly lipid soluble (crosses BBB)", 
+                        "Hepatic via CYP2D6<div>Small amount renal</div>", 
+                        "T1/2 3-8h<div>5-10% excreted in urine, unchanged</div>", 
+                        "3", 
+                        "3", 
+                        "", 
+                        "3", 
+                        "CVS", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "j[^2cp7/<3", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Sotalol", 
+                        "Beta-adrenergic agonist; often also classified as III Vaughan-Williams (K+ channel blocker)", 
+                        "VT<div>Maintenance SR in AF&nbsp;</div>", 
+                        "Racemic mixture of D- and L-sotalol (L-isomer responsible for beta-blocking effect, but both have similar III effects)&nbsp;<div>80 or 160mg tablets or as clear liquid 10mg/ml</div>", 
+                        "Nonselective beta-adrenergic antagonist (low dose)&nbsp;<div>Prolongs AP duration (high dose)&nbsp;</div>", 
+                        "80-160mg daily PO<div>50-100mg IV slow push</div>", 
+                        "PO 1-2h/8-16h<div>IV 5-10min</div>", 
+                        "IV/PO", 
+                        "Can precipitate heart failure<div>Bronchospasm</div><div>Visual disturbance</div><div>Sexual dysfunction</div>", 
+                        "Class III effect - prolonged QTc with dose-dependent risk of degenerating Torsades de Pointes", 
+                        "95% bioavailability", 
+                        "Vd 1.2-2.4L/kg<div>Nil protein binding</div>", 
+                        "Nil info", 
+                        "T1/2 12h&nbsp;<div>Unchanged urinary excretion</div>", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "CVS", 
+                        "CVS, Resp, Visual, Reproductive"
+                    ], 
+                    "flags": 0, 
+                    "guid": "BE*4=D6;&q", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Atenolol", 
+                        "Phenoxypropanolamine<div>Nonselective beta-adrenergic blocker (beta 1&gt;beta-2)</div>", 
+                        "Tahydysrhythmias<div>Acute MI and preventing reinfarction</div><div>Angina</div><div>Hypertension</div>", 
+                        "25/50/100 mg tablets<div>0.5% syrup</div><div>Clear, colourless solution for injection 0.5mg/ml</div>", 
+                        "Negative inotrope and chronotrope<div>Decreases myocardial O2 consumption, and has antihypertensive and antiarrhythmic properties</div>", 
+                        "50-100mg daily PO<div>2.5-10mg IV at 1mg/min</div>", 
+                        "Immediate IV onset", 
+                        "PO<div>IV</div>", 
+                        "Decreased SAN automaticity and AVN conduction<div>Prolonged refractory period of atrial and AVN</div>", 
+                        "Exacerbation PVD<div>Bronchospasm</div><div>Masks hypoglycaemia</div><div>Depression</div><div>Improtence</div><div>Altered bowel habit</div>", 
+                        "50% bioavailability", 
+                        "3% protein bound<div>Vd 0.7l/kg</div>", 
+                        "&lt;10% hepatic", 
+                        "Excreted largely unchanged<div>Elimination T1/2 6-9h</div>", 
+                        "4", 
+                        "3", 
+                        "2", 
+                        "3", 
+                        "CVS<div>Resp</div><div>Metabolic</div><div>Reproductive</div><div>GIT</div><div>Neuro</div>", 
+                        "CVS"
+                    ], 
+                    "flags": 0, 
+                    "guid": "E6Gqs)BQj0", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Glyceryl trinitrate", 
+                        "Organic nitrate", 
+                        "Stable, unstable and variant angina<div>LV failure secondary to MI</div><div>Periop BP control</div>", 
+                        "300/500/600mcg SL tablets<div>400mcg MDI</div><div>1/2/3/5mg buccal tabs</div><div>5/10mg per 24h patch</div><div>0.5/1/5mg/ml solution for injection (protect from light)&nbsp;</div>", 
+                        "Metabolised to NO, which stimulates guanylate cyclase in vascular smooth muscle --&gt; vasodilation", 
+                        "variable depending on route", 
+                        "<div>Onset</div>15-30min SL or PO<div>90-120s IV</div>", 
+                        "PO/SL<div>TD</div><div>IV</div>", 
+                        "CVS: Venodilator at low dose; veno and vasodilator at higher doses. Reduces preload and facilitates subendocardial blood flow + relieves coronary vasospasm and dilates arterioles --&gt; reduces afterload<div>Resp: bronchodilation</div><div>CNS: ICP may rise due to cerebral vasodilation</div>", 
+                        "Hypotension, tachycardia<div>Headaches more common with SL than IV</div>", 
+                        "Rapid SL, slow PO or TD<div>3% PO bioavailability - significant first-pass</div>", 
+                        "60% protein-bound<div>Vd 0.04-2.9L/kg</div>", 
+                        "Rapidly metabolised in liver and RBC into less active metabolites", 
+                        "80% urine<div>T 1/2 1-3 min</div>", 
+                        "3", 
+                        "5", 
+                        "3", 
+                        "1", 
+                        "CVS, GI", 
+                        "CVS, Resp, CNS"
+                    ], 
+                    "flags": 0, 
+                    "guid": "C/3+%oUGq4", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "neurology", 
+                        "neuropharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Sodium nitroprusside", 
+                        "Inorganic nitrate; vasodilator", 
+                        "Hypertensive crises<div>Aortic dissection pre-op</div><div>LV failure</div><div>Surgical hypotension</div>", 
+                        "10mg/ml solution for infusion", 
+                        "Direct vascular smooth muscle membrane stabiliser, preventing Ca++ influx for contraction", 
+                        "0.5-6mcg/kg/min infusion", 
+                        "Immediate onset<div>Duration ~1-2min</div>", 
+                        "IV", 
+                        "CVS: hypotension + compensatory tachycardia (CO maintained); decreases afterload, decreases O2 consumption<div>Resp: Reversible drop in PaO2 (alters HPV)</div><div>CNS: cerebral vasodilation --&gt; riases ICP</div><div>Metabolic: metabolic acidosis</div>", 
+                        "Cyanide toxicity (related to rate of infusion not total dose); SNP enters RBC and receives electron from Fe++ from oxyHb creating unstable nitroprusside ion which degrades into cyanide ions", 
+                        "Not absorbed PO", 
+                        "Confined to plasma; Vd ~ECF ~15L", 
+                        "Low conc: reaction with amino acids in plasma<div>High conc: rapid non-enzymatic hydrolysis in RBC</div>", 
+                        "Metabolites excreted unchanged in urine", 
+                        "4", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "CVS, Resp, Metabolic, CNS"
+                    ], 
+                    "flags": 0, 
+                    "guid": "gEr35RKVBP", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Captopril", 
+                        "ACE inhibitor", 
+                        "Hypertension<div>LV dysfunction post MI</div><div>Heart failure</div>", 
+                        "Tablets 12.5-50mg", 
+                        "Competitive ACE inhibitor --&gt; decreases Ang II production --&gt; decreases SVR and afterload (does NOT affect HR and baroreflex)&nbsp;", 
+                        "6.25mg TDS titrated to effect", 
+                        "1-1.5h/dose related duration (may require weeks for full hypotensive effect)&nbsp;", 
+                        "PO", 
+                        "Dry cough<div>Absorption reduced with food</div>", 
+                        "Decreased Ang II causes some impairment of renal autoregulation --&gt; may precipitate renal failure; K+ can accumulate due to decreased aldosterone production", 
+                        "60-70% bioavailability", 
+                        "Vd 0.7L/kg<div>25% protein-bound</div>", 
+                        "Hepatic oxidisation and converted to sulphides", 
+                        "T1/2 2-4h<div>Urinary excretion (active metabolites and unchanged)&nbsp;</div>", 
+                        "3", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "Renal", 
+                        "Resp<div>GI</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "x_H;yb#?Ih", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ramipril", 
+                        "ACE inhibitor prodrug", 
+                        "Hypertension<div>LV dysfunction post MI</div><div>Heart failure</div>", 
+                        "Tablets or capsules 1.25mg-10mg", 
+                        "Prodrug requiring conversion by hepatic esterases into active moiety ramiprilat --&gt; competitive ACE inhibition --&gt; decreased Ang II production --&gt; decreased SVR and afterload", 
+                        "1.25-10mg daily titrated to effect", 
+                        "1-2h/24h", 
+                        "PO", 
+                        "Dry cough<div>Reduced absorption with food</div>", 
+                        "impaired renal autoregulation due to decreased Ang II --&gt; may precipitate failure, K+ can accumulate due to decreased aldosterone", 
+                        "50-60% absorbed<div>30% bioavailability</div>", 
+                        "75% protein bound", 
+                        "Hepatic - into active moiety ramiprilat", 
+                        "Ramiprilat T1/2 13-17h<div>60% urine excretion; 40% faecal&nbsp;</div>", 
+                        "3", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "Renal", 
+                        "Resp<div>GI</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "3Ny%gl:^T", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Lignocaine", 
+                        "Na+ channel blocker (Vaughan-Williams 1b antiarrhythmic)&nbsp;", 
+                        "Local anaesthetic<div>1b antiarrhythmic for treatment of ventricular dysrhythmias</div>", 
+                        "Clear, colourless solution -.5/1/1.5/2% with/out adrenaline<div>Gel</div><div>5% ointment</div><div>10% spray</div><div>4% aqueous solution&nbsp;</div><div>Cream/suppositories</div>", 
+                        "pKa 7.7; 25% unionised at pH 7.4<div>Unionised form diffuses through neural sheaths and axon to internal surface of NA+ channel membrane; bind with H+ to for cationic species that binds to receptor on internal opening of Na+ channel --&gt; Na+ blockade --&gt; decreases conductance, prevents cell depolarisation</div>", 
+                        "Toxic dose 3mg/kg (7mg/kg with adrenaline)&nbsp;<div>For arrhythmias: 1mg/kg bolys, 20-50mcg/kg/min infusion</div>", 
+                        "2-20min onset dependent on vasoconstrictors and concentration", 
+                        "Topical<div>Infiltration</div><div>Intrathecal</div><div>Epidural</div><div>IV</div>", 
+                        "CVS: decreases rate of rise of Phase 0 of AP--&gt; higher threshold potention, shorens AP<div>Resp: bronchodilation</div><div>CNS: reversible neural blockade</div>", 
+                        "<div>Decreased PVR and cardiac contractility --&gt; hypotension + CV collapse</div><div>Resp depression</div><div>CNS depression</div>Methaemoglobinaemia", 
+                        "Depends on site of injection, dose, vasocontrictors (delay absorption)&nbsp;", 
+                        "64-70% protein-bound<div>Vd 0.7-15L/kg</div>", 
+                        "Hepatic&nbsp;", 
+                        "T1/2 90-110min<div>Reduced clearance in hepatic and cardiac failure</div>", 
+                        "2", 
+                        "6", 
+                        "5", 
+                        "1", 
+                        "CVS<div>Resp</div><div>CNS</div><div>Haem</div>", 
+                        "CVS<div>Resp&nbsp;</div><div>CNS</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "j1KVp2O<7#", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Adenosine", 
+                        "Natural purine nucleoside - direct cell membrane receptor agonist", 
+                        "Diagnosis and treatment of paroxysmal SVT", 
+                        "Clear colourless solution 3mg/ml", 
+                        "SAN and AVN activity depression - slows conduction<div>Antagonises cAMP-mediated catechol stimulation of ventricular muscle</div><div>Negative chronotrope and inotrope</div>", 
+                        "3-6mg/bolus", 
+                        "Rapid (seconds)&nbsp;", 
+                        "IV", 
+                        "CVS: dose-dependent tachycardia and increase CO as infusio, decreases PVR in pulm HTN; chest discomfort<div>Resp: bronchospasm</div><div>CNS: increased cerebral blood flow, facial flushing</div>", 
+                        "Can induce VF, profound bradycardia", 
+                        "100%", 
+                        "Unknown", 
+                        "Absorbed into plasma into RBC and vascular endothelium, phosphorylated to AMP or deaminated", 
+                        "T1/2 &lt;10s", 
+                        "1", 
+                        "1", 
+                        "1", 
+                        "", 
+                        "CVS", 
+                        "CVS<div>Resp</div><div>CNS</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "l^O$Brps<Z", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Magnesium", 
+                        "Inorganic sulphate", 
+                        "Mg++ replacement<div>Pre-eclampsia/eclampsia</div><div>Tocolytic in premature labour</div><div>Acute MI</div><div>TdP and other arrhythmias</div><div>Asthma</div>", 
+                        "Clear, colourless solution 10mmol/5ml<div>Tablets 1.65mmol/magmin tablet</div>", 
+                        "Essential cofactors in over 300 enzyme systems<div>Acts of myocarsium by slowing SAN rate of impulse fomation</div><div>Dose-dependent inibition of ACh at pre-synaptic NMJ&nbsp;</div>", 
+                        "As needed&nbsp;", 
+                        "IV immediate", 
+                        "PO<div>IV</div>", 
+                        "CVS: peripheral vasodilation, slows SAN impulses prolongs conduction time, PR interval, AVN ERP; attenuates vasoconstrictor and arrhythmogenic actions of adrenaline<div>Resp: bronchodilator, attenuates HPV</div><div>CNS: CNS depressant, anticonvulsant</div><div>GI: Osmotic laxative</div><div>GU: decreases uterine tone and contractility</div>", 
+                        "CNS: arreflexia, muscular weakness<div>CVS: AV and ventricular conduction disorders, cardiac arrest</div>", 
+                        "25-65% bioavalbility", 
+                        "30% protein-bound", 
+                        "Nil", 
+                        "&gt;50% excreted in urine (even in Mg++ deficiency)&nbsp;", 
+                        "6", 
+                        "2", 
+                        "2", 
+                        "3", 
+                        "CNS<div>CVS</div>", 
+                        "CNS<div>CVS</div><div>Resp</div><div>GI</div><div>GU</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "tA2pZp:xjy", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Atropine", 
+                        "Alkaloid from atropa belladone plant; tertiary amine anticholinergic", 
+                        "Counter bradycardia due to increased vagal tone<div>Counter muscarinic effects of anticholinergics</div><div>Organophosphate poisoning treatment</div><div>Dry secretions</div>", 
+                        "Clear, colourless solution as 500/600mcg/ml and 3mg in 10ml&nbsp;", 
+                        "Competitive antagonism of ACh at muscarinic receptors", 
+                        "200-600mcg (total 3mg for complete vagal block)&nbsp;", 
+                        "Immediate", 
+                        "PO, IV, IM", 
+                        "CVS: bradycardia (Bezold-Jarisch reflex) then tachycardia, increased CO<div>Resp: bronchodilation, increased VD, redcued secretions</div><div>CNS: anti-emetic, anti-parkinsonian</div><div>GI: reduced secretions</div>", 
+                        "CNS: Central anticholinergic sydnrome - confusion, amnesia, agitation, hallucinations, ataxia, dysarthria, delirium", 
+                        "Bioavailability 10-25%", 
+                        "50% protein-bound<div>Vd 2-4L/kg</div><div>Crosses placenta and BBB</div>", 
+                        "Hydrolysed in tissue and liver", 
+                        "94% excreted in urine in 24h<div>T1/2 2.5h</div>", 
+                        "4", 
+                        "1", 
+                        "3", 
+                        "1", 
+                        "CNS", 
+                        "CVS, Resp, CNS, GI"
+                    ], 
+                    "flags": 0, 
+                    "guid": "K_/v/Xtw=P", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "cardiology", 
+                        "cardiovascular-drugs"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "a736de2e-503b-11e7-bfad-0025bcdd42f8", 
+            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Respiratory Pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Oxygen", 
+                        "Gaseous inorganic element", 
+                        "Hypoxia - prevention and management, and pre-oxygenation for intubation<div>CO poisoning</div><div>Pneumatosis coli and pneumothorax</div><div>Decompression sickness</div><div>Anaerobic infections</div>", 
+                        "Compressed gas in cylinders at pressure of 13700kPa at 15degC<div>Colourless, odorless, tasteless gas which supports combustion</div>", 
+                        "Essential role in oxidative phosphorylation; combined with H+ via mitochondrial cytochrome oxidase; released energy is used to make ATP", 
+                        "21% to 100% FiO2", 
+                        "Minutes", 
+                        "Inhalation via:<div>&nbsp;- fixed-performance: e.g.anaesthetic ventilators with large reservoirs and Venturi devices</div><div>&nbsp;- variable performance: e.g. Hudson masks partial rebreathers, nasal cannulae</div>", 
+                        "CVS: Slight bradycardia with 100%, up to 20% decrease CO, decreased coronary perfusion (arterial vasoconstriction)&nbsp;<div><br /></div><div>Resp: N2 washout in 2-3 mins; Haldane effect (CO2 displaced)&nbsp;</div><div><br /></div><div>CNS: decreased CBF due to vasoconstriction (when using 100%)&nbsp;</div>", 
+                        "Neonatal retrolental fibroplasia<div>Acute toxicity (Paul-Bert effect): CNS irritation</div><div>Chronic toxicity: chest pain, sore throat, atelectasis, decreased VC</div>", 
+                        "Freely permeable across normal alveolar membrane", 
+                        "Binds to Hb; 0.3ml dissolved O2/100ml plasma at 21%; 1.7ml at 100%", 
+                        "Oxidative phosphorylation in mitochondria; CO2 and water are waste products", 
+                        "Exhaled CO2 and metabolic water", 
+                        "5", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "vTfez<iZxM", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Pneumatosis coli}} is a radiological sign suggestive of {{c2::necrotising enterocolitis}}, which can be treated for a short term with {{c3::hyperbaric oxygen}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "IWf/{N*9eB", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Salbutamol", 
+                        "Short acting beta-agonist", 
+                        "Bronchoconstriction<div>Uncomplicated preterm labour</div>", 
+                        "<div>Tablets 2/4/8mg</div><div>Syrup 0.4/2.5mg/ml</div><div>MDI 100mcg/puff</div><div>Solution for nebulisation 2.5/5mg/ml</div><div>Capsule with dry powder for inhalation 200/400mcg</div><div>Clear, colourless solution 1mg/ml</div>", 
+                        "Beta agonist (beta-2 &gt; beta-1)<br />Stimulated membrane-bound adenyl cyclase (in the presence of magnesium) to increase cAMP.<br />Directly inhibits antigen-induced release of histamine and slow-releasing substance of anaphylaxis from mast cells", 
+                        "2-4mg q6-8h", 
+                        "Onset: 5-15 minutes after inhalation, 30 minutes after ingestion<div>Duration: up to four hours</div>", 
+                        "PO<div>Inh</div><div>Nebulised</div><div>IM</div><div>SC</div><div>IV</div>", 
+                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
+                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
+                        "10% of inhaled salbutamol reaches the bronchial tree", 
+                        "8-64% protein bound in plasma; Vd is 156L", 
+                        "Significant first-pass metabolism&nbsp;", 
+                        "30% excreted unchanged in urine, rest in faeces and in urine as sulfate derivative<div>Clearance is 28L/hour, elimination half-life is 2.7-5h</div>", 
+                        "2", 
+                        "6", 
+                        "6", 
+                        "3", 
+                        "CNS, CVS, Metabolic, GIT", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "ykD$!UdH{g", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Salbutamol}} stimulates {{c2::membrane-bound adenylyl cyclase}} (in the presence of {{c3::magnesium}}) to {{c4::increase cyclic AMP}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "Q`raerx_y`", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Salbutamol}} directly inhibits {{c2::antigen-induced}} release of {{c3::histamine}} and {{c4::slow-releasing substance}} of anaphylaxis from {{c5::mast cells}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "r[Erdeuc$s", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium", 
+                        "Synthetic quarternary ammonium compound which is an atropine derivative", 
+                        "Bronchodilation", 
+                        "Isotonic solution 0.26mg/ml for nebulisation<div>MDI 200mcg/dose (18mcg available to patient)&nbsp;</div>", 
+                        "Competitive inhibition of cholinergic receptors on bronchial smooth muscle &nbsp;- therefore blocks vagal-mediated bronchoconstriction<div>May inhibit acetyl-choline enhancement of mediator release by blocking cholinergic receptors on mast-cells</div>", 
+                        "100-500mcg q6h&nbsp;<div>1-2 puffs q6h</div>", 
+                        "Max effect 1.5-2h<div>Lasts 4-6h</div>", 
+                        "Neb<div>Inh</div>", 
+                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
+                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
+                        "3-30% orally<div>5% inhaled</div>", 
+                        "0.4l/kg Vd", 
+                        "Eight inactive metabolites", 
+                        "Equal in urine and haeces<div>Clearance 11.8l/hr</div><div>Elimination half-life 3.2-3.8h</div>", 
+                        "1", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "FPxvfx1hjx", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium works by {{c1::competitive inhibition}} of {{c2::cholinergic receptors}} on {{c3::bronchial smooth muscle}} - therefore blocks {{c4::vagal-mediated bronchoconstriction}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "J96^ln(tZ]", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium may inhibit {{c1::acetyl-choline}} enhancement of mediator release by blocking {{c2::cholinergic receptors on mast-cells}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "P;#`?ejd+H", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Prednisolone", 
+                        "Synthetic glucocorticoid", 
+                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
+                        "1/2.5/5/20mg tablets<div>Solution for injection 25mg/ml</div><div>Eye/ear drops</div><div>Retention enemas</div>", 
+                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
+                        "5-60mg/day in divided doses<div>25-100mg once or twice weekly IM or intra-articular</div>", 
+                        "Onset: 6-8h<div>Duration: 12-36h</div>", 
+                        "PO<div>IM</div><div>Intra-articular</div><div>PR</div><div>Topical&nbsp;</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "Bioavailability 80-100% PO/PR - rapid and complete absorption", 
+                        "Reversibly bound to albumin and corticosteroid-binding globulin<div>80-90% protein bound at low concentrations; 60-70% at hihg concentrations</div><div>Vd 0.35-0.71l/kg depending on dose</div>", 
+                        "Liver: hydroxylation then conjugation", 
+                        "11-14% unchanged in urine<div>Dose-dependent clearance 170-200ml/min</div><div>T<sub>1/2</sub> 2.6-5h</div>", 
+                        "7", 
+                        "5", 
+                        "4", 
+                        "2", 
+                        "Syndrome, CNS, metabolic", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "LUKzY5y:u.", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dexamethasone", 
+                        "Synthetic glucocorticoid", 
+                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
+                        "0.5/2mg tablets<div>PO solution</div><div>3.8mg/ml solution for injection</div><div>Topical creams</div>", 
+                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
+                        "0.75-9mg PO daily, depending on indication", 
+                        "Onset: 30 min to 4h<br /><div>Duration 36-72h</div>", 
+                        "PO<div>IV</div><div>Topical</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "Dexamethasone sodium rapidly hydrolysed to dexamethasone", 
+                        "Up to 77% protein-bound, mainly to albumin; high uptake by liver, kidney and adrenals", 
+                        "Slow liver metabolisation<div>Mainly urinary excretion, as unconjugated steroids</div>", 
+                        "Plasma T1/2 3.5-4.5h, but <i>biological</i>&nbsp;T1/2 36-54h&nbsp;", 
+                        "7", 
+                        "4", 
+                        "3", 
+                        "2", 
+                        "Syndrome, CNS, Metabolic", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "flo%(6,_0#", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Steriods: {{c1::Dexamethasone}} has {{c2::seven times}} more potency than {{c1::prednisolone}} and {{c2::thirty times}} more than {{c1::hydrocortisone}}.&nbsp;"
+                    ], 
+                    "flags": 0, 
+                    "guid": "s-3-~:Lhh,", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Nitric oxide", 
+                        "An inorganic gas", 
+                        "Selective pulmonary vasodilator in pulmonary hypertension", 
+                        "Aluminium cylinders with 100/800 ppm of NO and N2 in 353L or 1963L cylinders; pure NO is corrosive, hence combined with N2", 
+                        "In vivo produced by NO synthase using the subtrate L-arginine.&nbsp;<div>Diffuses to the vascular smooth muscle layer and stimulates cGMP production, which activates a phosphorylation cascade causing smooth muscle relaxation and vasodilatation.</div>", 
+                        "5-20 ppm", 
+                        "", 
+                        "Inhalation via inspiratory limb of ventilator or throughout resp cycle via continuous flow system.&nbsp;", 
+                        "Profound decrease in PaO2 and increase in PAP when stopped abruptly", 
+                        "Methaemoglobinaemia and pulmonary oedema 500-2000ppm", 
+                        "Highly lipid soluble and diffuses freely across lipid membranes", 
+                        "", 
+                        "Combines with oxyhaemoglobin 60-100% saturated, producing methaemoglobin and nitrate<div>T1/2 &lt;5s</div><div>MetHb concentrations increase in first 8 hours of use</div>", 
+                        "Nitrate is main metabolite (70%), excreted by the kidneys", 
+                        "1", 
+                        "", 
+                        "", 
+                        "1", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "OBKu}S<98j", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Epoprostenol", 
+                        "Prostanboid (formerly known as prostacyclin)", 
+                        "<div>Pulmonary arterial hypertension</div>Anti-coagulant in RRT and bypass<div>Haemolytic uraemic syndrome</div><div>Raynaud's disease</div><div>Pre-eclampsia</div>", 
+                        "500mcg freeze-dried powder for reconstitution", 
+                        "Stimulated adenylate cyclase causing increased cAMP in platelets which inhibits phospholipase and COX, inhibiting platelet aggregation", 
+                        "Commence at 2ng/kg/min", 
+                        "Immediate onset", 
+                        "IV<div>Nebuliser</div>", 
+                        "CVS: vascular smooth muscle relaxant - decreased SVR, tacycardia, decreased diastole<div>Resp: decreased PVR, interferes with HPV</div><div>CNS: cerebral vasodilation --&gt; raised CBF</div><div>Haem: most powerful platelet aggregation inhibitor</div>", 
+                        "CVS: Hypotension, bradycardia<div>Resp: Resp arrest</div>", 
+                        "Unknown", 
+                        "Unknown", 
+                        "Rapidly metabolised by hydrolysis in blood, and to derivative in tissues", 
+                        "T 1/2 30s to 3 min<div>CSHL: 30min</div>", 
+                        "5", 
+                        "1", 
+                        "2", 
+                        "1", 
+                        "2", 
+                        "CVS, Resp, CNS, Haem"
+                    ], 
+                    "flags": 0, 
+                    "guid": "lhoPFG.>|1", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "Respiratory", 
+                        "respiratory-pharmacology"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "a737cfbd-503b-11e7-a0a9-0025bcdd42f8", 
+            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Neuropharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ketamine", 
+                        "Phenylcyclidine derivative", 
+                        "Induction of anaesthesia<div>Sole agent for short procedures</div><div>Pre-hospital care and mass casualties</div><div>Analgesia post-op and in ICU</div><div>Chronic pain</div><div>Severe refractory asthma</div>", 
+                        "Colourless solution 10/50/100mg/ml of racemic mixture", 
+                        "Non-competitive NMDA antagonist at Ca++ channel pore and by interaction with phencyclidine binding site<div>Complex reactions with glutamate-gated NMDA receptors and opioid receptors</div>", 
+                        "<div>Induction:</div>IM 4-10mg/kg<div>IV 0.5-2mg/kg</div><div><br /></div><div>Sedation/analgesia:</div><div>IM 2-4mg/kg</div><div>IV 0.2-0.75mg/kg</div>", 
+                        "IM: onset 2-8min; duration 10-20min<div>IV: onset 30s; duration&nbsp;5-10min</div>", 
+                        "IV<div>IM</div><div>PO</div><div>PR</div><div>IN</div><div>Intrathecal</div><div>Extradural</div>", 
+                        "CVS: tachycardia, hypertension, increased CO due to increased SNS tomne<div><br /></div><div>Resp: bronchodilation + improved compliance</div><div><br /></div><div>CNS: dissociative state; increased CBF</div><div><br /></div><div>Metabolic: increased adrenaline and noradrenaline levels</div>", 
+                        "PONV<div>Transient rash</div><div>Hallucinations; unpleasant dreams</div>", 
+                        "Bioavailability:<div>25% PO</div><div>50% IN</div><div>93% IM</div>", 
+                        "25-50% protein-bound<div>Vd 3l/kg</div>", 
+                        "Liver: hydroxylation and methylation by CYP450 system<div>Norketamine &nbsp;(metabolite) metabolised to inactive glucuronide</div>", 
+                        "Conjugated metabolites excreted in urine<div>T<sub>1/2</sub> 2.5hrs</div>", 
+                        "6", 
+                        "2", 
+                        "7", 
+                        "2", 
+                        "GI, skin, CNS", 
+                        "CVS, Resp, CNS, Metabolic"
+                    ], 
+                    "flags": 0, 
+                    "guid": "th7sc?Z<_D", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "neuropharmacology", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Nimodipine", 
+                        "Dihydropyridine calcium channel antagonist", 
+                        "Prevention and treatment of vasospasm post SAH<div>Migraine</div><div>Acute CVA</div><div>Drug-resistant epilepsy</div>", 
+                        "30mg tablets<div>IV infusion 200mcg/ml</div>", 
+                        "Calcium channel antagonist binding to vascular smooth muscle cell membrane sites, prevents Ca++ influx through 'slow' Ca++ channels causing vasodilation<div>Relatively specific to cerebral arterioles</div>", 
+                        "60mg q4h tablets<div>1mg/hr crystalloid infusion in central vein</div>", 
+                        "Onset unknown<div>PO Duration 4hrs</div>", 
+                        "PO<div>IV</div>", 
+                        "CVS: Hypotension, bradycardia<div>GI: Nausea</div><div>Neuro: headache</div>", 
+                        "Reversible LFT abnormality", 
+                        "Rapid and well-absorbed but bioavailability 3-28% due to high first-pass", 
+                        "98% protein-bound<div>Vd 0.9-2.3L/kg</div>", 
+                        "Demethylated and dehydrogenated to inactive pyridine analogue&nbsp;", 
+                        "50% metabolites in urine<div>33% in faeces</div><div>420-520l/h clearance</div><div>T 1/2 0.9-7.2h</div>", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "P@}00uL`z|", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "neurology", 
+                        "neuropharmacology"
+                    ]
+                }
+            ]
+        }
+    ], 
+    "crowdanki_uuid": "a7313987-503b-11e7-9725-0025bcdd42f8", 
+    "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [], 
+    "name": "ANZCA-Pharmacology", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Pharmacology Cloze-a92e2", 
+            "sortf": 0, 
+            "tags": [
+                "cardiovascular", 
+                "cardiovascular-drugs", 
+                "pharmacology"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Question}}<br>\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Question}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Drug", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Class", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Uses", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Presentation", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Action", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Doses", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Onset/Duration", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Routes", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Effects", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Toxicity", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Absorption", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Distribution", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Metabolism", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Elimination", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Number of uses", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Number of formulations", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Number of routes", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Number of actions", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Toxicity types", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Systems affected", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Pharmacology Cup a Dorset dame-c48f9", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    1, 
+                    "any", 
+                    [
+                        0, 
+                        14
+                    ]
+                ], 
+                [
+                    2, 
+                    "any", 
+                    [
+                        0, 
+                        15
+                    ]
+                ], 
+                [
+                    3, 
+                    "any", 
+                    [
+                        0, 
+                        17
+                    ]
+                ], 
+                [
+                    4, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    5, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    6, 
+                    "any", 
+                    [
+                        0, 
+                        16
+                    ]
+                ], 
+                [
+                    7, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    8, 
+                    "any", 
+                    [
+                        0, 
+                        18
+                    ]
+                ], 
+                [
+                    9, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    10, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    11, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    12, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    13, 
+                    "any", 
+                    [
+                        0, 
+                        19
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "cardiology", 
+                "cardiovascular-drugs"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Class", 
+                    "ord": 0, 
+                    "qfmt": "What class of drug is {{Drug}}\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Uses}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Uses", 
+                    "ord": 1, 
+                    "qfmt": "What are the uses of {{Drug}}?\n<br>List {{Number of uses}}\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Presentation}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Presentation", 
+                    "ord": 2, 
+                    "qfmt": "In what form/s is {{Drug}} presented?\n<br>List {{Number of formulations}}\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Action}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Action", 
+                    "ord": 3, 
+                    "qfmt": "How does {{Drug}} work?\n<br>List {{Number of actions}}\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Doses}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Doses", 
+                    "ord": 4, 
+                    "qfmt": "In what doses can {{Drug}} be given?\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Onset/Duration}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Onset/Duration", 
+                    "ord": 5, 
+                    "qfmt": "What is the onset of {{Drug}}, and what is its duration??\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Routes}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Routes", 
+                    "ord": 6, 
+                    "qfmt": "In what routes can {{Drug}} be given??\n<br>List {{Number of routes}}\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Effects}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Side Effects", 
+                    "ord": 7, 
+                    "qfmt": "What are the side effects of {{Drug}}??\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Toxicity}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Toxicity", 
+                    "ord": 8, 
+                    "qfmt": "What are the features of {{Drug}} toxicity??\n<br>{{Toxicity types}}\n\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Absorption}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Absorption", 
+                    "ord": 9, 
+                    "qfmt": "How is {{Drug}} absorbed??\nWhat is its bioavailability?\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Distribution}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Distribution", 
+                    "ord": 10, 
+                    "qfmt": "What is the distribution of {{Drug}}??\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Metabolism}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Metabolism", 
+                    "ord": 11, 
+                    "qfmt": "How is {{Drug}} metabolised??\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Elimination}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Elimination", 
+                    "ord": 12, 
+                    "qfmt": "How is {{Drug}} excreted??\n\n\n"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Systems affected", 
+                    "ord": 13, 
+                    "qfmt": "What systems are affected by {{Drug}}?\n<br>List {{Systems affected}}\n\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "a734cd28-503b-11e7-b249-0025bcdd42f8", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "cardiology", 
+                "cardiovascular-drugs"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Amiodarone", 
+                "III Vaughan-Williams antiarrhythmic&nbsp;<div>Benzofuran derivative, structurally resembling thyroxine</div>", 
+                "Tachydysrhythmias (including VT, WPW, AF)&nbsp;", 
+                "100/200mg tablets<div>150mg/ampoule</div>", 
+                "<div>Historically classed as K+ channel blocker, but also affects Na+, Ca++, and adrenoceptors (all four classes)</div>Prolongs AP and delays refractory period<div>Partial alpha and beta antagonism by reducing receptor number or inhibiting GPCR system from activating adenylyl cyclase</div>", 
+                "5mg/kg bolus; 15mg/kg infusion over 24hrs", 
+                "Onset IV loading dose &lt;1h", 
+                "PO<div>IV</div>", 
+                "CVS: depresses AVN automaticity and conduction; increases AP duration; prolongs QTc", 
+                "CVS: hypotension, AV block<div>Resp: pneumonitis</div><div>CNS: CNS toxicity</div><div>Hepatic: cirrhosis</div><div>Metabolic: hypo OR hyperthyroidism; peripheral neuropathy</div><div>Occular: corneal microdeposits (reversible)&nbsp;</div>", 
+                "Bioavailability 22-86%", 
+                "96-98% protein-bound<div>Vd 1.3-66L/kg depending on dose</div>", 
+                "Extensive hepatic metabolisation", 
+                "1-5% urinary<div>T1/2 4-52d</div>", 
+                "1", 
+                "2", 
+                "2", 
+                "3", 
+                "CVS<div>Resp</div><div>CNS</div><div>Metabolic</div><div>Hepatic</div><div>Occular</div>", 
+                "CVS"
+            ], 
+            "flags": 0, 
+            "guid": "yz1Khw$=+3", 
+            "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+            "tags": [
+                "cardiology", 
+                "cardiovascular-drugs"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Digoxin", 
+                "Cardiac glycoside derived from dry leaves of digitalis (the foxglove)&nbsp;", 
+                "Treatment of AF/flutter<div>Heart failure</div>", 
+                "tablets 62.5mcg, 250mcg<div>250mcg/ml in 2ml IV</div>", 
+                "Direct: Na+/K+/ATPase inhibition --&gt; increases intracellular Na+, decreases K+ causing reduced Na+-Ca++ pump action --&gt; increased intracellular Ca++ --&gt; inotropy<div>Indirect: modifies autonomic activity and increases efferent vagal activity</div>", 
+                "10-20mcg/kg q6h loading, then per day", 
+                "Peak effect &lt;2h after IV", 
+                "IV, PO", 
+                "CVS: inotropy, automaticity and contractility; slows HR (decreased SAN, slows AVN, increase AVN refractory period", 
+                "<div>CVS: arrhythmia, esp junctional bradycardia, ventricular bigeminy, 2* or 3* HB</div><div>GI: anorexia, n/v/d, abdo pain</div><div>CNS: headache, drowsiness, confusion, visual change, coma</div>", 
+                "60-90% bioavailability", 
+                "20-30% protein-bound<div>Vd 5-11L/kg</div>", 
+                "&lt;10% hepatic metabolism", 
+                "50-70% excreted unchanged; dependent on renal function<div>T1/2 36-48h</div>", 
+                "2", 
+                "2", 
+                "2", 
+                "2 - Direct and indirect", 
+                "CVS, CNS, GI", 
+                "CVS"
+            ], 
+            "flags": 0, 
+            "guid": "hum]$/OWE#", 
+            "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+            "tags": [
+                "cardiology", 
+                "cardiovascular-drugs"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the ECG changes associated with digoxin?", 
+                "Prolonged PR<div>ST depression</div><div>T wave flattening</div><div>QT shortening</div>"
+            ], 
+            "flags": 0, 
+            "guid": "JnVr!|>6^J", 
+            "note_model_uuid": "a734cd28-503b-11e7-b249-0025bcdd42f8", 
+            "tags": [
+                "cardiology", 
+                "cardiovascular-drugs"
+            ]
+        }
+    ]
+}
