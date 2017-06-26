@@ -4,6 +4,388 @@
         {
             "__type__": "Deck", 
             "children": [], 
+            "crowdanki_uuid": "a736de2e-503b-11e7-bfad-0025bcdd42f8", 
+            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Respiratory Pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Oxygen", 
+                        "Gaseous inorganic element", 
+                        "Hypoxia - prevention and management, and pre-oxygenation for intubation<div>CO poisoning</div><div>Pneumatosis coli and pneumothorax</div><div>Decompression sickness</div><div>Anaerobic infections</div>", 
+                        "Compressed gas in cylinders at pressure of 13700kPa at 15degC<div>Colourless, odorless, tasteless gas which supports combustion</div>", 
+                        "Essential role in oxidative phosphorylation; combined with H+ via mitochondrial cytochrome oxidase; released energy is used to make ATP", 
+                        "21% to 100% FiO2", 
+                        "Minutes", 
+                        "Inhalation via:<div>&nbsp;- fixed-performance: e.g.anaesthetic ventilators with large reservoirs and Venturi devices</div><div>&nbsp;- variable performance: e.g. Hudson masks partial rebreathers, nasal cannulae</div>", 
+                        "CVS: Slight bradycardia with 100%, up to 20% decrease CO, decreased coronary perfusion (arterial vasoconstriction)&nbsp;<div><br /></div><div>Resp: N2 washout in 2-3 mins; Haldane effect (CO2 displaced)&nbsp;</div><div><br /></div><div>CNS: decreased CBF due to vasoconstriction (when using 100%)&nbsp;</div>", 
+                        "Neonatal retrolental fibroplasia<div>Acute toxicity (Paul-Bert effect): CNS irritation</div><div>Chronic toxicity: chest pain, sore throat, atelectasis, decreased VC</div>", 
+                        "Freely permeable across normal alveolar membrane", 
+                        "Binds to Hb; 0.3ml dissolved O2/100ml plasma at 21%; 1.7ml at 100%", 
+                        "Oxidative phosphorylation in mitochondria; CO2 and water are waste products", 
+                        "Exhaled CO2 and metabolic water", 
+                        "5", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "vTfez<iZxM", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Pneumatosis coli}} is a radiological sign suggestive of {{c2::necrotising enterocolitis}}, which can be treated for a short term with {{c3::hyperbaric oxygen}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "IWf/{N*9eB", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Salbutamol", 
+                        "Short acting beta-agonist", 
+                        "Bronchoconstriction<div>Uncomplicated preterm labour</div>", 
+                        "<div>Tablets 2/4/8mg</div><div>Syrup 0.4/2.5mg/ml</div><div>MDI 100mcg/puff</div><div>Solution for nebulisation 2.5/5mg/ml</div><div>Capsule with dry powder for inhalation 200/400mcg</div><div>Clear, colourless solution 1mg/ml</div>", 
+                        "Beta agonist (beta-2 &gt; beta-1)<br />Stimulated membrane-bound adenyl cyclase (in the presence of magnesium) to increase cAMP.<br />Directly inhibits antigen-induced release of histamine and slow-releasing substance of anaphylaxis from mast cells", 
+                        "2-4mg q6-8h", 
+                        "Onset: 5-15 minutes after inhalation, 30 minutes after ingestion<div>Duration: up to four hours</div>", 
+                        "PO<div>Inh</div><div>Nebulised</div><div>IM</div><div>SC</div><div>IV</div>", 
+                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
+                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
+                        "10% of inhaled salbutamol reaches the bronchial tree", 
+                        "8-64% protein bound in plasma; Vd is 156L", 
+                        "Significant first-pass metabolism&nbsp;", 
+                        "30% excreted unchanged in urine, rest in faeces and in urine as sulfate derivative<div>Clearance is 28L/hour, elimination half-life is 2.7-5h</div>", 
+                        "2", 
+                        "6", 
+                        "6", 
+                        "3", 
+                        "CNS, CVS, Metabolic, GIT", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "ykD$!UdH{g", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Salbutamol}} stimulates {{c2::membrane-bound adenylyl cyclase}} (in the presence of {{c3::magnesium}}) to {{c4::increase cyclic AMP}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "Q`raerx_y`", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "{{c1::Salbutamol}} directly inhibits {{c2::antigen-induced}} release of {{c3::histamine}} and {{c4::slow-releasing substance}} of anaphylaxis from {{c5::mast cells}}."
+                    ], 
+                    "flags": 0, 
+                    "guid": "r[Erdeuc$s", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium", 
+                        "Synthetic quarternary ammonium compound which is an atropine derivative", 
+                        "Bronchodilation", 
+                        "Isotonic solution 0.26mg/ml for nebulisation<div>MDI 200mcg/dose (18mcg available to patient)&nbsp;</div>", 
+                        "Competitive inhibition of cholinergic receptors on bronchial smooth muscle &nbsp;- therefore blocks vagal-mediated bronchoconstriction<div>May inhibit acetyl-choline enhancement of mediator release by blocking cholinergic receptors on mast-cells</div>", 
+                        "100-500mcg q6h&nbsp;<div>1-2 puffs q6h</div>", 
+                        "Max effect 1.5-2h<div>Lasts 4-6h</div>", 
+                        "Neb<div>Inh</div>", 
+                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
+                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
+                        "3-30% orally<div>5% inhaled</div>", 
+                        "0.4l/kg Vd", 
+                        "Eight inactive metabolites", 
+                        "Equal in urine and haeces<div>Clearance 11.8l/hr</div><div>Elimination half-life 3.2-3.8h</div>", 
+                        "1", 
+                        "2", 
+                        "2", 
+                        "2", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "FPxvfx1hjx", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium works by {{c1::competitive inhibition}} of {{c2::cholinergic receptors}} on {{c3::bronchial smooth muscle}} - therefore blocks {{c4::vagal-mediated bronchoconstriction}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "J96^ln(tZ]", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ipratropium may inhibit {{c1::acetyl-choline}} enhancement of mediator release by blocking {{c2::cholinergic receptors on mast-cells}}"
+                    ], 
+                    "flags": 0, 
+                    "guid": "P;#`?ejd+H", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Prednisolone", 
+                        "Synthetic glucocorticoid", 
+                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
+                        "1/2.5/5/20mg tablets<div>Solution for injection 25mg/ml</div><div>Eye/ear drops</div><div>Retention enemas</div>", 
+                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
+                        "5-60mg/day in divided doses<div>25-100mg once or twice weekly IM or intra-articular</div>", 
+                        "Onset: 6-8h<div>Duration: 12-36h</div>", 
+                        "PO<div>IM</div><div>Intra-articular</div><div>PR</div><div>Topical&nbsp;</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "Bioavailability 80-100% PO/PR - rapid and complete absorption", 
+                        "Reversibly bound to albumin and corticosteroid-binding globulin<div>80-90% protein bound at low concentrations; 60-70% at hihg concentrations</div><div>Vd 0.35-0.71l/kg depending on dose</div>", 
+                        "Liver: hydroxylation then conjugation", 
+                        "11-14% unchanged in urine<div>Dose-dependent clearance 170-200ml/min</div><div>T<sub>1/2</sub> 2.6-5h</div>", 
+                        "7", 
+                        "5", 
+                        "4", 
+                        "2", 
+                        "Syndrome, CNS, metabolic", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "LUKzY5y:u.", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Dexamethasone", 
+                        "Synthetic glucocorticoid", 
+                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
+                        "0.5/2mg tablets<div>PO solution</div><div>3.8mg/ml solution for injection</div><div>Topical creams</div>", 
+                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
+                        "0.75-9mg PO daily, depending on indication", 
+                        "Onset: 30 min to 4h<br /><div>Duration 36-72h</div>", 
+                        "PO<div>IV</div><div>Topical</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
+                        "Dexamethasone sodium rapidly hydrolysed to dexamethasone", 
+                        "Up to 77% protein-bound, mainly to albumin; high uptake by liver, kidney and adrenals", 
+                        "Slow liver metabolisation<div>Mainly urinary excretion, as unconjugated steroids</div>", 
+                        "Plasma T1/2 3.5-4.5h, but <i>biological</i>&nbsp;T1/2 36-54h&nbsp;", 
+                        "7", 
+                        "4", 
+                        "3", 
+                        "2", 
+                        "Syndrome, CNS, Metabolic", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "flo%(6,_0#", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Steriods: {{c1::Dexamethasone}} has {{c2::seven times}} more potency than {{c1::prednisolone}} and {{c2::thirty times}} more than {{c1::hydrocortisone}}.&nbsp;"
+                    ], 
+                    "flags": 0, 
+                    "guid": "s-3-~:Lhh,", 
+                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Nitric oxide", 
+                        "An inorganic gas", 
+                        "Selective pulmonary vasodilator in pulmonary hypertension", 
+                        "Aluminium cylinders with 100/800 ppm of NO and N2 in 353L or 1963L cylinders; pure NO is corrosive, hence combined with N2", 
+                        "In vivo produced by NO synthase using the subtrate L-arginine.&nbsp;<div>Diffuses to the vascular smooth muscle layer and stimulates cGMP production, which activates a phosphorylation cascade causing smooth muscle relaxation and vasodilatation.</div>", 
+                        "5-20 ppm", 
+                        "", 
+                        "Inhalation via inspiratory limb of ventilator or throughout resp cycle via continuous flow system.&nbsp;", 
+                        "Profound decrease in PaO2 and increase in PAP when stopped abruptly", 
+                        "Methaemoglobinaemia and pulmonary oedema 500-2000ppm", 
+                        "Highly lipid soluble and diffuses freely across lipid membranes", 
+                        "", 
+                        "Combines with oxyhaemoglobin 60-100% saturated, producing methaemoglobin and nitrate<div>T1/2 &lt;5s</div><div>MetHb concentrations increase in first 8 hours of use</div>", 
+                        "Nitrate is main metabolite (70%), excreted by the kidneys", 
+                        "1", 
+                        "", 
+                        "", 
+                        "1", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "OBKu}S<98j", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Epoprostenol", 
+                        "Prostanboid (formerly known as prostacyclin)", 
+                        "<div>Pulmonary arterial hypertension</div>Anti-coagulant in RRT and bypass<div>Haemolytic uraemic syndrome</div><div>Raynaud's disease</div><div>Pre-eclampsia</div>", 
+                        "500mcg freeze-dried powder for reconstitution", 
+                        "Stimulated adenylate cyclase causing increased cAMP in platelets which inhibits phospholipase and COX, inhibiting platelet aggregation", 
+                        "Commence at 2ng/kg/min", 
+                        "Immediate onset", 
+                        "IV<div>Nebuliser</div>", 
+                        "CVS: vascular smooth muscle relaxant - decreased SVR, tacycardia, decreased diastole<div>Resp: decreased PVR, interferes with HPV</div><div>CNS: cerebral vasodilation --&gt; raised CBF</div><div>Haem: most powerful platelet aggregation inhibitor</div>", 
+                        "CVS: Hypotension, bradycardia<div>Resp: Resp arrest</div>", 
+                        "Unknown", 
+                        "Unknown", 
+                        "Rapidly metabolised by hydrolysis in blood, and to derivative in tissues", 
+                        "T 1/2 30s to 3 min<div>CSHL: 30min</div>", 
+                        "5", 
+                        "1", 
+                        "2", 
+                        "1", 
+                        "2", 
+                        "CVS, Resp, CNS, Haem", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "lhoPFG.>|1", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "Respiratory", 
+                        "respiratory-pharmacology"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "a737cfbd-503b-11e7-a0a9-0025bcdd42f8", 
+            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Neuropharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ketamine", 
+                        "Phenylcyclidine derivative", 
+                        "Induction of anaesthesia<div>Sole agent for short procedures</div><div>Pre-hospital care and mass casualties</div><div>Analgesia post-op and in ICU</div><div>Chronic pain</div><div>Severe refractory asthma</div>", 
+                        "Colourless solution 10/50/100mg/ml of racemic mixture", 
+                        "Non-competitive NMDA antagonist at Ca++ channel pore and by interaction with phencyclidine binding site<div>Complex reactions with glutamate-gated NMDA receptors and opioid receptors</div>", 
+                        "<div>Induction:</div>IM 4-10mg/kg<div>IV 0.5-2mg/kg</div><div><br /></div><div>Sedation/analgesia:</div><div>IM 2-4mg/kg</div><div>IV 0.2-0.75mg/kg</div>", 
+                        "IM: onset 2-8min; duration 10-20min<div>IV: onset 30s; duration&nbsp;5-10min</div>", 
+                        "IV<div>IM</div><div>PO</div><div>PR</div><div>IN</div><div>Intrathecal</div><div>Extradural</div>", 
+                        "CVS: tachycardia, hypertension, increased CO due to increased SNS tomne<div><br /></div><div>Resp: bronchodilation + improved compliance</div><div><br /></div><div>CNS: dissociative state; increased CBF</div><div><br /></div><div>Metabolic: increased adrenaline and noradrenaline levels</div>", 
+                        "PONV<div>Transient rash</div><div>Hallucinations; unpleasant dreams</div>", 
+                        "Bioavailability:<div>25% PO</div><div>50% IN</div><div>93% IM</div>", 
+                        "25-50% protein-bound<div>Vd 3l/kg</div>", 
+                        "Liver: hydroxylation and methylation by CYP450 system<div>Norketamine &nbsp;(metabolite) metabolised to inactive glucuronide</div>", 
+                        "Conjugated metabolites excreted in urine<div>T<sub>1/2</sub> 2.5hrs</div>", 
+                        "6", 
+                        "2", 
+                        "7", 
+                        "2", 
+                        "GI, skin, CNS", 
+                        "CVS, Resp, CNS, Metabolic", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "th7sc?Z<_D", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "neuropharmacology", 
+                        "pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Nimodipine", 
+                        "Dihydropyridine calcium channel antagonist", 
+                        "Prevention and treatment of vasospasm post SAH<div>Migraine</div><div>Acute CVA</div><div>Drug-resistant epilepsy</div>", 
+                        "30mg tablets<div>IV infusion 200mcg/ml</div>", 
+                        "Calcium channel antagonist binding to vascular smooth muscle cell membrane sites, prevents Ca++ influx through 'slow' Ca++ channels causing vasodilation<div>Relatively specific to cerebral arterioles</div>", 
+                        "60mg q4h tablets<div>1mg/hr crystalloid infusion in central vein</div>", 
+                        "Onset unknown<div>PO Duration 4hrs</div>", 
+                        "PO<div>IV</div>", 
+                        "CVS: Hypotension, bradycardia<div>GI: Nausea</div><div>Neuro: headache</div>", 
+                        "Reversible LFT abnormality", 
+                        "Rapid and well-absorbed but bioavailability 3-28% due to high first-pass", 
+                        "98% protein-bound<div>Vd 0.9-2.3L/kg</div>", 
+                        "Demethylated and dehydrogenated to inactive pyridine analogue&nbsp;", 
+                        "50% metabolites in urine<div>33% in faeces</div><div>420-520l/h clearance</div><div>T 1/2 0.9-7.2h</div>", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "P@}00uL`z|", 
+                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
+                    "tags": [
+                        "neurology", 
+                        "neuropharmacology"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
             "crowdanki_uuid": "a734d323-503b-11e7-800b-0025bcdd42f8", 
             "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
             "desc": "", 
@@ -35,6 +417,7 @@
                         "3", 
                         "4", 
                         "3", 
+                        "", 
                         "", 
                         ""
                     ], 
@@ -154,6 +537,7 @@
                         "1", 
                         "1", 
                         "CNS, CVS, Skin", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -188,6 +572,7 @@
                         "1", 
                         "2", 
                         "CVS, GI, Skin", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -222,6 +607,7 @@
                         "1", 
                         "1", 
                         "CNS, CVS", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -301,6 +687,7 @@
                         "2", 
                         "1", 
                         "CVS, mortality", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -335,7 +722,8 @@
                         "3", 
                         "2", 
                         "CNS, GI, Skin", 
-                        "CVS, Resp, CNS, GU, Metabolic"
+                        "CVS, Resp, CNS, GU, Metabolic", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "H|90R&{Ng{", 
@@ -384,7 +772,8 @@
                         "6", 
                         "1", 
                         "Perfusion", 
-                        "CVS, GU, Haematological"
+                        "CVS, GU, Haematological", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "cN;01V+Ae$", 
@@ -523,7 +912,8 @@
                         "3", 
                         "2", 
                         "CNS, CVS, GI", 
-                        "CVS, CNS, GI"
+                        "CVS, CNS, GI", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "AcD&TKC&_W", 
@@ -553,7 +943,8 @@
                         "1", 
                         "1", 
                         "CVS", 
-                        "CVS<div>GU</div>"
+                        "CVS<div>GU</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "n.{$/?SD8D", 
@@ -586,7 +977,8 @@
                         "2", 
                         "2", 
                         "CNS", 
-                        "Respiratory"
+                        "Respiratory", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "erDL:jk{zk", 
@@ -618,6 +1010,7 @@
                         "1", 
                         "2", 
                         "", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -645,6 +1038,7 @@
                         "Vd 3.89L/kg<div>90% protein bound</div>", 
                         "Hepatic: multiple isoenzymes; one active metabolite with 20% activity", 
                         "T1/2 3-7hrs<div>Urinary excretion (70% metabolits, 4% unchanged</div><div>16% in faeces</div>", 
+                        "", 
                         "", 
                         "", 
                         "", 
@@ -682,7 +1076,8 @@
                         "2", 
                         "2", 
                         "Cardiac", 
-                        "CVS, CNS"
+                        "CVS, CNS", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "y3Xy*/Cs8p", 
@@ -714,6 +1109,7 @@
                         "", 
                         "3", 
                         "CVS", 
+                        "", 
                         ""
                     ], 
                     "flags": 0, 
@@ -747,7 +1143,8 @@
                         "2", 
                         "2", 
                         "CVS", 
-                        "CVS, Resp, Visual, Reproductive"
+                        "CVS, Resp, Visual, Reproductive", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "BE*4=D6;&q", 
@@ -780,7 +1177,8 @@
                         "2", 
                         "3", 
                         "CVS<div>Resp</div><div>Metabolic</div><div>Reproductive</div><div>GIT</div><div>Neuro</div>", 
-                        "CVS"
+                        "CVS", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "E6Gqs)BQj0", 
@@ -813,7 +1211,8 @@
                         "3", 
                         "1", 
                         "CVS, GI", 
-                        "CVS, Resp, CNS"
+                        "CVS, Resp, CNS", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "C/3+%oUGq4", 
@@ -846,7 +1245,8 @@
                         "1", 
                         "1", 
                         "1", 
-                        "CVS, Resp, Metabolic, CNS"
+                        "CVS, Resp, Metabolic, CNS", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "gEr35RKVBP", 
@@ -880,7 +1280,8 @@
                         "1", 
                         "1", 
                         "Renal", 
-                        "Resp<div>GI</div>"
+                        "Resp<div>GI</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "x_H;yb#?Ih", 
@@ -913,7 +1314,8 @@
                         "1", 
                         "1", 
                         "Renal", 
-                        "Resp<div>GI</div>"
+                        "Resp<div>GI</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "3Ny%gl:^T", 
@@ -946,7 +1348,8 @@
                         "5", 
                         "1", 
                         "CVS<div>Resp</div><div>CNS</div><div>Haem</div>", 
-                        "CVS<div>Resp&nbsp;</div><div>CNS</div>"
+                        "CVS<div>Resp&nbsp;</div><div>CNS</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "j1KVp2O<7#", 
@@ -979,7 +1382,8 @@
                         "1", 
                         "", 
                         "CVS", 
-                        "CVS<div>Resp</div><div>CNS</div>"
+                        "CVS<div>Resp</div><div>CNS</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "l^O$Brps<Z", 
@@ -1012,7 +1416,8 @@
                         "2", 
                         "3", 
                         "CNS<div>CVS</div>", 
-                        "CNS<div>CVS</div><div>Resp</div><div>GI</div><div>GU</div>"
+                        "CNS<div>CVS</div><div>Resp</div><div>GI</div><div>GU</div>", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "tA2pZp:xjy", 
@@ -1045,7 +1450,8 @@
                         "3", 
                         "1", 
                         "CNS", 
-                        "CVS, Resp, CNS, GI"
+                        "CVS, Resp, CNS, GI", 
+                        ""
                     ], 
                     "flags": 0, 
                     "guid": "K_/v/Xtw=P", 
@@ -1053,379 +1459,6 @@
                     "tags": [
                         "cardiology", 
                         "cardiovascular-drugs"
-                    ]
-                }
-            ]
-        }, 
-        {
-            "__type__": "Deck", 
-            "children": [], 
-            "crowdanki_uuid": "a736de2e-503b-11e7-bfad-0025bcdd42f8", 
-            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
-            "desc": "", 
-            "dyn": 0, 
-            "extendNew": 10, 
-            "extendRev": 50, 
-            "media_files": [], 
-            "name": "Respiratory Pharmacology", 
-            "notes": [
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Oxygen", 
-                        "Gaseous inorganic element", 
-                        "Hypoxia - prevention and management, and pre-oxygenation for intubation<div>CO poisoning</div><div>Pneumatosis coli and pneumothorax</div><div>Decompression sickness</div><div>Anaerobic infections</div>", 
-                        "Compressed gas in cylinders at pressure of 13700kPa at 15degC<div>Colourless, odorless, tasteless gas which supports combustion</div>", 
-                        "Essential role in oxidative phosphorylation; combined with H+ via mitochondrial cytochrome oxidase; released energy is used to make ATP", 
-                        "21% to 100% FiO2", 
-                        "Minutes", 
-                        "Inhalation via:<div>&nbsp;- fixed-performance: e.g.anaesthetic ventilators with large reservoirs and Venturi devices</div><div>&nbsp;- variable performance: e.g. Hudson masks partial rebreathers, nasal cannulae</div>", 
-                        "CVS: Slight bradycardia with 100%, up to 20% decrease CO, decreased coronary perfusion (arterial vasoconstriction)&nbsp;<div><br /></div><div>Resp: N2 washout in 2-3 mins; Haldane effect (CO2 displaced)&nbsp;</div><div><br /></div><div>CNS: decreased CBF due to vasoconstriction (when using 100%)&nbsp;</div>", 
-                        "Neonatal retrolental fibroplasia<div>Acute toxicity (Paul-Bert effect): CNS irritation</div><div>Chronic toxicity: chest pain, sore throat, atelectasis, decreased VC</div>", 
-                        "Freely permeable across normal alveolar membrane", 
-                        "Binds to Hb; 0.3ml dissolved O2/100ml plasma at 21%; 1.7ml at 100%", 
-                        "Oxidative phosphorylation in mitochondria; CO2 and water are waste products", 
-                        "Exhaled CO2 and metabolic water", 
-                        "5", 
-                        "", 
-                        "", 
-                        "", 
-                        "", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "vTfez<iZxM", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "{{c1::Pneumatosis coli}} is a radiological sign suggestive of {{c2::necrotising enterocolitis}}, which can be treated for a short term with {{c3::hyperbaric oxygen}}."
-                    ], 
-                    "flags": 0, 
-                    "guid": "IWf/{N*9eB", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Salbutamol", 
-                        "Short acting beta-agonist", 
-                        "Bronchoconstriction<div>Uncomplicated preterm labour</div>", 
-                        "<div>Tablets 2/4/8mg</div><div>Syrup 0.4/2.5mg/ml</div><div>MDI 100mcg/puff</div><div>Solution for nebulisation 2.5/5mg/ml</div><div>Capsule with dry powder for inhalation 200/400mcg</div><div>Clear, colourless solution 1mg/ml</div>", 
-                        "Beta agonist (beta-2 &gt; beta-1)<br />Stimulated membrane-bound adenyl cyclase (in the presence of magnesium) to increase cAMP.<br />Directly inhibits antigen-induced release of histamine and slow-releasing substance of anaphylaxis from mast cells", 
-                        "2-4mg q6-8h", 
-                        "Onset: 5-15 minutes after inhalation, 30 minutes after ingestion<div>Duration: up to four hours</div>", 
-                        "PO<div>Inh</div><div>Nebulised</div><div>IM</div><div>SC</div><div>IV</div>", 
-                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
-                        "CNS: Anxiety, insomnia, tremor<div>CVS: Diaphoresis, palpitations, postural hypotension</div><div>Metabolic: Ketosis, lactic acidosis, hypokalaemia</div><div>GIT: Nausea vomiting</div>", 
-                        "10% of inhaled salbutamol reaches the bronchial tree", 
-                        "8-64% protein bound in plasma; Vd is 156L", 
-                        "Significant first-pass metabolism&nbsp;", 
-                        "30% excreted unchanged in urine, rest in faeces and in urine as sulfate derivative<div>Clearance is 28L/hour, elimination half-life is 2.7-5h</div>", 
-                        "2", 
-                        "6", 
-                        "6", 
-                        "3", 
-                        "CNS, CVS, Metabolic, GIT", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "ykD$!UdH{g", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "{{c1::Salbutamol}} stimulates {{c2::membrane-bound adenylyl cyclase}} (in the presence of {{c3::magnesium}}) to {{c4::increase cyclic AMP}}."
-                    ], 
-                    "flags": 0, 
-                    "guid": "Q`raerx_y`", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "{{c1::Salbutamol}} directly inhibits {{c2::antigen-induced}} release of {{c3::histamine}} and {{c4::slow-releasing substance}} of anaphylaxis from {{c5::mast cells}}."
-                    ], 
-                    "flags": 0, 
-                    "guid": "r[Erdeuc$s", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ipratropium", 
-                        "Synthetic quarternary ammonium compound which is an atropine derivative", 
-                        "Bronchodilation", 
-                        "Isotonic solution 0.26mg/ml for nebulisation<div>MDI 200mcg/dose (18mcg available to patient)&nbsp;</div>", 
-                        "Competitive inhibition of cholinergic receptors on bronchial smooth muscle &nbsp;- therefore blocks vagal-mediated bronchoconstriction<div>May inhibit acetyl-choline enhancement of mediator release by blocking cholinergic receptors on mast-cells</div>", 
-                        "100-500mcg q6h&nbsp;<div>1-2 puffs q6h</div>", 
-                        "Max effect 1.5-2h<div>Lasts 4-6h</div>", 
-                        "Neb<div>Inh</div>", 
-                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
-                        "20-30% have transient local effects - dry oral mucosa, unpleasant taste<div>Mydriasis and difficulty with accommodation upon local deposition on eye</div>", 
-                        "3-30% orally<div>5% inhaled</div>", 
-                        "0.4l/kg Vd", 
-                        "Eight inactive metabolites", 
-                        "Equal in urine and haeces<div>Clearance 11.8l/hr</div><div>Elimination half-life 3.2-3.8h</div>", 
-                        "1", 
-                        "2", 
-                        "2", 
-                        "2", 
-                        "", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "FPxvfx1hjx", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ipratropium works by {{c1::competitive inhibition}} of {{c2::cholinergic receptors}} on {{c3::bronchial smooth muscle}} - therefore blocks {{c4::vagal-mediated bronchoconstriction}}"
-                    ], 
-                    "flags": 0, 
-                    "guid": "J96^ln(tZ]", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ipratropium may inhibit {{c1::acetyl-choline}} enhancement of mediator release by blocking {{c2::cholinergic receptors on mast-cells}}"
-                    ], 
-                    "flags": 0, 
-                    "guid": "P;#`?ejd+H", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Prednisolone", 
-                        "Synthetic glucocorticoid", 
-                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
-                        "1/2.5/5/20mg tablets<div>Solution for injection 25mg/ml</div><div>Eye/ear drops</div><div>Retention enemas</div>", 
-                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
-                        "5-60mg/day in divided doses<div>25-100mg once or twice weekly IM or intra-articular</div>", 
-                        "Onset: 6-8h<div>Duration: 12-36h</div>", 
-                        "PO<div>IM</div><div>Intra-articular</div><div>PR</div><div>Topical&nbsp;</div>", 
-                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
-                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
-                        "Bioavailability 80-100% PO/PR - rapid and complete absorption", 
-                        "Reversibly bound to albumin and corticosteroid-binding globulin<div>80-90% protein bound at low concentrations; 60-70% at hihg concentrations</div><div>Vd 0.35-0.71l/kg depending on dose</div>", 
-                        "Liver: hydroxylation then conjugation", 
-                        "11-14% unchanged in urine<div>Dose-dependent clearance 170-200ml/min</div><div>T<sub>1/2</sub> 2.6-5h</div>", 
-                        "7", 
-                        "5", 
-                        "4", 
-                        "2", 
-                        "Syndrome, CNS, metabolic", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "LUKzY5y:u.", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Dexamethasone", 
-                        "Synthetic glucocorticoid", 
-                        "Replacement therapy in adrenocortical deficiency states<div>Allergy/anaphylaxis</div><div>Asthma/COPD</div><div>Hypercalcaemia</div><div>Autoimmune disorders</div><div>Leukaemia chemotherapy regimes</div><div>Immunosuppression after organ transplantation</div>", 
-                        "0.5/2mg tablets<div>PO solution</div><div>3.8mg/ml solution for injection</div><div>Topical creams</div>", 
-                        "Control the rate of protein synthesis<div>Form a complex with cytoplasmic receptors to influnce rate of RNA transcription, which directs lipocortin synthesis</div>", 
-                        "0.75-9mg PO daily, depending on indication", 
-                        "Onset: 30 min to 4h<br /><div>Duration 36-72h</div>", 
-                        "PO<div>IV</div><div>Topical</div>", 
-                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
-                        "<div>Acute withdrawal syndrome</div>Chronic: Cushing's syndrome + metabolic derangements: IGT, fluid retention, hypokalaemic alkalosis, osteoporosis<div>Proximal myopathy, mania, increased risk of PUD</div>", 
-                        "Dexamethasone sodium rapidly hydrolysed to dexamethasone", 
-                        "Up to 77% protein-bound, mainly to albumin; high uptake by liver, kidney and adrenals", 
-                        "Slow liver metabolisation<div>Mainly urinary excretion, as unconjugated steroids</div>", 
-                        "Plasma T1/2 3.5-4.5h, but <i>biological</i>&nbsp;T1/2 36-54h&nbsp;", 
-                        "7", 
-                        "4", 
-                        "3", 
-                        "2", 
-                        "Syndrome, CNS, Metabolic", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "flo%(6,_0#", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Steriods: {{c1::Dexamethasone}} has {{c2::seven times}} more potency than {{c1::prednisolone}} and {{c2::thirty times}} more than {{c1::hydrocortisone}}.&nbsp;"
-                    ], 
-                    "flags": 0, 
-                    "guid": "s-3-~:Lhh,", 
-                    "note_model_uuid": "a735aedc-503b-11e7-a59b-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Nitric oxide", 
-                        "An inorganic gas", 
-                        "Selective pulmonary vasodilator in pulmonary hypertension", 
-                        "Aluminium cylinders with 100/800 ppm of NO and N2 in 353L or 1963L cylinders; pure NO is corrosive, hence combined with N2", 
-                        "In vivo produced by NO synthase using the subtrate L-arginine.&nbsp;<div>Diffuses to the vascular smooth muscle layer and stimulates cGMP production, which activates a phosphorylation cascade causing smooth muscle relaxation and vasodilatation.</div>", 
-                        "5-20 ppm", 
-                        "", 
-                        "Inhalation via inspiratory limb of ventilator or throughout resp cycle via continuous flow system.&nbsp;", 
-                        "Profound decrease in PaO2 and increase in PAP when stopped abruptly", 
-                        "Methaemoglobinaemia and pulmonary oedema 500-2000ppm", 
-                        "Highly lipid soluble and diffuses freely across lipid membranes", 
-                        "", 
-                        "Combines with oxyhaemoglobin 60-100% saturated, producing methaemoglobin and nitrate<div>T1/2 &lt;5s</div><div>MetHb concentrations increase in first 8 hours of use</div>", 
-                        "Nitrate is main metabolite (70%), excreted by the kidneys", 
-                        "1", 
-                        "", 
-                        "", 
-                        "1", 
-                        "", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "OBKu}S<98j", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Epoprostenol", 
-                        "Prostanboid (formerly known as prostacyclin)", 
-                        "<div>Pulmonary arterial hypertension</div>Anti-coagulant in RRT and bypass<div>Haemolytic uraemic syndrome</div><div>Raynaud's disease</div><div>Pre-eclampsia</div>", 
-                        "500mcg freeze-dried powder for reconstitution", 
-                        "Stimulated adenylate cyclase causing increased cAMP in platelets which inhibits phospholipase and COX, inhibiting platelet aggregation", 
-                        "Commence at 2ng/kg/min", 
-                        "Immediate onset", 
-                        "IV<div>Nebuliser</div>", 
-                        "CVS: vascular smooth muscle relaxant - decreased SVR, tacycardia, decreased diastole<div>Resp: decreased PVR, interferes with HPV</div><div>CNS: cerebral vasodilation --&gt; raised CBF</div><div>Haem: most powerful platelet aggregation inhibitor</div>", 
-                        "CVS: Hypotension, bradycardia<div>Resp: Resp arrest</div>", 
-                        "Unknown", 
-                        "Unknown", 
-                        "Rapidly metabolised by hydrolysis in blood, and to derivative in tissues", 
-                        "T 1/2 30s to 3 min<div>CSHL: 30min</div>", 
-                        "5", 
-                        "1", 
-                        "2", 
-                        "1", 
-                        "2", 
-                        "CVS, Resp, CNS, Haem"
-                    ], 
-                    "flags": 0, 
-                    "guid": "lhoPFG.>|1", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": [
-                        "Respiratory", 
-                        "respiratory-pharmacology"
-                    ]
-                }
-            ]
-        }, 
-        {
-            "__type__": "Deck", 
-            "children": [], 
-            "crowdanki_uuid": "a737cfbd-503b-11e7-a0a9-0025bcdd42f8", 
-            "deck_config_uuid": "e0b36f42-3fb9-11e7-b50e-0025bcdd42f8", 
-            "desc": "", 
-            "dyn": 0, 
-            "extendNew": 10, 
-            "extendRev": 50, 
-            "media_files": [], 
-            "name": "Neuropharmacology", 
-            "notes": [
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ketamine", 
-                        "Phenylcyclidine derivative", 
-                        "Induction of anaesthesia<div>Sole agent for short procedures</div><div>Pre-hospital care and mass casualties</div><div>Analgesia post-op and in ICU</div><div>Chronic pain</div><div>Severe refractory asthma</div>", 
-                        "Colourless solution 10/50/100mg/ml of racemic mixture", 
-                        "Non-competitive NMDA antagonist at Ca++ channel pore and by interaction with phencyclidine binding site<div>Complex reactions with glutamate-gated NMDA receptors and opioid receptors</div>", 
-                        "<div>Induction:</div>IM 4-10mg/kg<div>IV 0.5-2mg/kg</div><div><br /></div><div>Sedation/analgesia:</div><div>IM 2-4mg/kg</div><div>IV 0.2-0.75mg/kg</div>", 
-                        "IM: onset 2-8min; duration 10-20min<div>IV: onset 30s; duration&nbsp;5-10min</div>", 
-                        "IV<div>IM</div><div>PO</div><div>PR</div><div>IN</div><div>Intrathecal</div><div>Extradural</div>", 
-                        "CVS: tachycardia, hypertension, increased CO due to increased SNS tomne<div><br /></div><div>Resp: bronchodilation + improved compliance</div><div><br /></div><div>CNS: dissociative state; increased CBF</div><div><br /></div><div>Metabolic: increased adrenaline and noradrenaline levels</div>", 
-                        "PONV<div>Transient rash</div><div>Hallucinations; unpleasant dreams</div>", 
-                        "Bioavailability:<div>25% PO</div><div>50% IN</div><div>93% IM</div>", 
-                        "25-50% protein-bound<div>Vd 3l/kg</div>", 
-                        "Liver: hydroxylation and methylation by CYP450 system<div>Norketamine &nbsp;(metabolite) metabolised to inactive glucuronide</div>", 
-                        "Conjugated metabolites excreted in urine<div>T<sub>1/2</sub> 2.5hrs</div>", 
-                        "6", 
-                        "2", 
-                        "7", 
-                        "2", 
-                        "GI, skin, CNS", 
-                        "CVS, Resp, CNS, Metabolic"
-                    ], 
-                    "flags": 0, 
-                    "guid": "th7sc?Z<_D", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": [
-                        "neuropharmacology", 
-                        "pharmacology"
-                    ]
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Nimodipine", 
-                        "Dihydropyridine calcium channel antagonist", 
-                        "Prevention and treatment of vasospasm post SAH<div>Migraine</div><div>Acute CVA</div><div>Drug-resistant epilepsy</div>", 
-                        "30mg tablets<div>IV infusion 200mcg/ml</div>", 
-                        "Calcium channel antagonist binding to vascular smooth muscle cell membrane sites, prevents Ca++ influx through 'slow' Ca++ channels causing vasodilation<div>Relatively specific to cerebral arterioles</div>", 
-                        "60mg q4h tablets<div>1mg/hr crystalloid infusion in central vein</div>", 
-                        "Onset unknown<div>PO Duration 4hrs</div>", 
-                        "PO<div>IV</div>", 
-                        "CVS: Hypotension, bradycardia<div>GI: Nausea</div><div>Neuro: headache</div>", 
-                        "Reversible LFT abnormality", 
-                        "Rapid and well-absorbed but bioavailability 3-28% due to high first-pass", 
-                        "98% protein-bound<div>Vd 0.9-2.3L/kg</div>", 
-                        "Demethylated and dehydrogenated to inactive pyridine analogue&nbsp;", 
-                        "50% metabolites in urine<div>33% in faeces</div><div>420-520l/h clearance</div><div>T 1/2 0.9-7.2h</div>", 
-                        "", 
-                        "", 
-                        "", 
-                        "", 
-                        "", 
-                        ""
-                    ], 
-                    "flags": 0, 
-                    "guid": "P@}00uL`z|", 
-                    "note_model_uuid": "a734c0b3-503b-11e7-9937-0025bcdd42f8", 
-                    "tags": [
-                        "neurology", 
-                        "neuropharmacology"
                     ]
                 }
             ]
@@ -1484,6 +1517,7 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [], 
+    "mid": 1485143624238, 
     "name": "ANZCA-Pharmacology", 
     "note_models": [
         {
@@ -1708,11 +1742,20 @@
                     "rtl": false, 
                     "size": 20, 
                     "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Source", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
                 }
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Pharmacology Cup a Dorset dame-c48f9", 
+            "name": "Pharmacology Cup a Dorset dame", 
             "req": [
                 [
                     0, 
@@ -1826,7 +1869,7 @@
             ], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1835,7 +1878,7 @@
                     "qfmt": "What class of drug is {{Drug}}\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Uses}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Uses}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1844,7 +1887,7 @@
                     "qfmt": "What are the uses of {{Drug}}?\n<br>List {{Number of uses}}\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Presentation}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Presentation}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1853,7 +1896,7 @@
                     "qfmt": "In what form/s is {{Drug}} presented?\n<br>List {{Number of formulations}}\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Action}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Action}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1862,7 +1905,7 @@
                     "qfmt": "How does {{Drug}} work?\n<br>List {{Number of actions}}\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Doses}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Doses}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1871,7 +1914,7 @@
                     "qfmt": "In what doses can {{Drug}} be given?\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Onset/Duration}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Onset/Duration}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1880,7 +1923,7 @@
                     "qfmt": "What is the onset of {{Drug}}, and what is its duration??\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Routes}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Routes}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1889,7 +1932,7 @@
                     "qfmt": "In what routes can {{Drug}} be given??\n<br>List {{Number of routes}}\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Effects}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Effects}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1898,7 +1941,7 @@
                     "qfmt": "What are the side effects of {{Drug}}??\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Toxicity}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Toxicity}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1907,7 +1950,7 @@
                     "qfmt": "What are the features of {{Drug}} toxicity??\n<br>{{Toxicity types}}\n\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Absorption}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Absorption}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1916,7 +1959,7 @@
                     "qfmt": "How is {{Drug}} absorbed??\nWhat is its bioavailability?\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Distribution}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Distribution}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1925,7 +1968,7 @@
                     "qfmt": "What is the distribution of {{Drug}}??\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Metabolism}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Metabolism}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1934,7 +1977,7 @@
                     "qfmt": "How is {{Drug}} metabolised??\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Elimination}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Elimination}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -1943,7 +1986,7 @@
                     "qfmt": "How is {{Drug}} excreted??\n\n\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Class}}\n<br>\n{{Source}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -2035,7 +2078,8 @@
                 "2", 
                 "3", 
                 "CVS<div>Resp</div><div>CNS</div><div>Metabolic</div><div>Hepatic</div><div>Occular</div>", 
-                "CVS"
+                "CVS", 
+                ""
             ], 
             "flags": 0, 
             "guid": "yz1Khw$=+3", 
@@ -2068,7 +2112,8 @@
                 "2", 
                 "2 - Direct and indirect", 
                 "CVS, CNS, GI", 
-                "CVS"
+                "CVS", 
+                ""
             ], 
             "flags": 0, 
             "guid": "hum]$/OWE#", 
